@@ -1,6 +1,6 @@
-# AKC Lecturas
+# AKC Programas
 
-Lecturas que voy realizando.
+Notas sobre programas, programación y lo que programo.
 
 ## Sobre la plataforma
 
