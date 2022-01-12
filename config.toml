@@ -1,0 +1,146 @@
+baseURL = "https://akc-programas.netlify.app/"
+# [en, es, ...] determines default content language
+defaultContentLanguage = "es"
+# language code
+languageCode = "es"
+title = "AKC Programas"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+
+[params.app]
+  iconColor = "#5bbad5"
+  tileColor = "#da532c"
+  themeColor = "#ffffff"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Artículos"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Etiquetas"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categorías"
+    url = "/categories/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "Acerca"
+    url = "/acerca/"
+    title = ""
+    weight = 4
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.search]
+  enable = true
+  # type of search engine ("lunr", "algolia")
+  type = "lunr"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  #  max number of results length
+  maxResultLength = 10
+  #  snippet length of the result
+  snippetLength = 30
+  #  HTML tag name of the highlight part in results
+  highlightTag = "em"
+  #  whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+  [params.search.algolia]
+    index = ""
+    appID = ""
+    searchKey = ""
+
+[params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-ZQMWJ0YJX4"
+
+[params.footer]
+  custom = 'AKC Programas &copy;2022 - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /> </a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a>'
+  hugo = false
+  copyright = false
+  author = false
+
+[author]
+  name = "Antonio Kobashikawa"
+  email = "akobashikawa@gmail.com"
+  link = "/akobashikawa"
+  
+# Page config
+[params.page]
+  [params.page.toc]
+    # whether to enable the table of the contents
+    enable = true
+    # whether to keep the static table of the contents in front of the post
+    keepStatic = false
+    # whether to make the table of the contents in the sidebar automatically collapsed
+    auto = true
+  # Code config
+  [params.page.code]
+    # whether to show the copy button of the code block
+    copy = true
+    # the maximum number of lines of displayed code by default
+    maxShownLines = 10
+  
+  [params.page.comment]
+    enable = true
+    [params.page.comment.disqus]
+    enable = true
+    shortname = "akc-programas"
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = true
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
+[params.home.profile]
+  enable = true
+  social = true
+  avatarURL = "contact-person.jpg"
+
+[params.social]
+  GitHub = "akobashikawa"
+  Linkedin = "akobashikawa"
+  Twitter = "rulokoba"
+  Instagram = "rulokc"
+  Facebook = "akobashikawa"
