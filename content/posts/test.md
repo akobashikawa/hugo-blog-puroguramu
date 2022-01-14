@@ -101,6 +101,4 @@ This is a *paragraph* with **typing animation** based on [TypeIt](https://typeit
 
 ## Instagram
 
-AAA
 {{< instagram BWNjjyYFxVx >}}
-BBB
