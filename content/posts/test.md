@@ -1,16 +1,14 @@
 ---
 title: "Test"
 slug: "test"
-date: 2022-01-05T12:42:38-05:00
+summary: "Para probar cosas"
 categories: ["Prueba"]
 tags: ["prueba", "desarrollo"]
 math:
   enable: true
 draft: false
+date: 2022-01-05T12:42:38-05:00
 ---
-
-Para probar cosas.
-<!--more-->
 
 # Heading 1
 Párrafo en heading 1
@@ -101,6 +99,8 @@ stateDiagram
 This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
 {{< /typeit >}}
 
+## Instagram
 
-
-
+AAA
+{{< instagram BWNjjyYFxVx >}}
+BBB
