@@ -4,6 +4,7 @@ defaultContentLanguage = "es"
 # language code
 languageCode = "es"
 title = "AKC Programas"
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -132,6 +133,10 @@ theme = "LoveIt"
       message = ""
       dismiss = ""
       link = ""
+
+  [params.page.math]
+    enable = true
+    copyTex = true
 
 [params.home.profile]
   enable = true
