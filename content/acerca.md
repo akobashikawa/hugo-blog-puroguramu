@@ -1,10 +1,10 @@
 ---
 title: "Acerca de este blog"
-date: 2022-01-12T11:43:00-05:00
+date: 2022-01-16T23:42:00-05:00
 draft: false
 ---
 
-![Biblioteca](library-1800.jpg)
+![Acerca](acerca.png)
 
 Pienso que la programación es como un arte donde ponemos algo de ciencia.
 
