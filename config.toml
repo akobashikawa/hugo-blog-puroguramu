@@ -142,6 +142,8 @@ theme = "LoveIt"
   enable = true
   social = true
   avatarURL = "contact-person.jpg"
+  subtitle = "Notas sobre programas, programación y lo que programo"
+  typeit = true
 
 [params.social]
   GitHub = "akobashikawa"
@@ -149,3 +151,4 @@ theme = "LoveIt"
   Twitter = "rulokoba"
   Instagram = "rulokc"
   Facebook = "akobashikawa"
+  RSS = true
