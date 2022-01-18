@@ -7,6 +7,12 @@ tags: ["prueba", "desarrollo"]
 math:
   enable: true
 draft: false
+outputs:
+  - html
+  - markdown
+hiddenFromHomePage: true
+hiddenFromSearch: false
+linkToMarkdown: true
 date: 2022-01-05T12:42:38-05:00
 ---
 
