@@ -4,7 +4,7 @@ date: 2022-01-16T23:42:00-05:00
 draft: false
 ---
 
-![Acerca](acerca.png)
+{{<image src="blog-akc-programas.png" width="100%">}}
 
 Pienso que la programación es como un **arte** donde ponemos algo de **ciencia**.
 
