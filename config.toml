@@ -1,9 +1,9 @@
-baseURL = "https://akc-programas.netlify.app/"
+baseURL = "https://akc-puroguramu.netlify.app/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
 languageCode = "es"
-title = "AKC Programas"
+title = "AKC Puroguramu"
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Change the default theme to be use when building the site with Hugo
@@ -106,10 +106,10 @@ theme = "LoveIt"
     enable = true
     # Google Analytics
     [params.analytics.google]
-      id = "G-XSG15WDZP6"
+      id = "G-QHX4ZZ5JDB"
 
 [params.footer]
-  custom = 'AKC Programas &copy;2022 - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /> </a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a>'
+  custom = 'AKC Puroguramu &copy;2022 - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /> </a> <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a>'
   hugo = false
   copyright = false
   author = false
@@ -139,7 +139,7 @@ theme = "LoveIt"
     enable = true
     [params.page.comment.disqus]
     enable = true
-    shortname = "akc-programas"
+    shortname = "akc-puroguramu"
 
   # Cookie consent config
   [params.cookieconsent]
@@ -157,7 +157,8 @@ theme = "LoveIt"
 [params.home.profile]
   enable = true
   social = true
-  avatarURL = "contact-person.jpg"
+  #avatarURL = "contact-person.jpg"
+  avatarURL = "puroguramu-logo.png"
   subtitle = "Notas sobre programas, programación y lo que programo"
   typeit = true
 

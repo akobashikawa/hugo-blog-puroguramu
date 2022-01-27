@@ -1,6 +1,6 @@
-# AKC Programas
+# AKC Purguramu
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c8680dfb-8016-4301-b4a2-147866d093a2/deploy-status)](https://app.netlify.com/sites/akc-programas/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/44152981-e968-4be2-821e-b66c36bdc59d/deploy-status)](https://app.netlify.com/sites/akc-puroguramu/deploys)
 
 Notas sobre programas, programación y lo que programo.
 
