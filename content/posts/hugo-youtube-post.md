@@ -1,6 +1,6 @@
 ---
 title: "Hugo: Tips para publicar un post con un video de youtube"
-slug: "20220122-hugo-youtube-post"
+slug: "2022/01/hugo-youtube-post"
 categories: ["Hugo"]
 tags: ["hugo", "loveit", "youtube", "tips"]
 featuredImage: "hugo-logo-wide.svg"
