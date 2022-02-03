@@ -1,4 +1,4 @@
-baseURL = "https://akc-puroguramu.netlify.app/"
+baseURL = "https://puroguramu.akcademia.xyz/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
