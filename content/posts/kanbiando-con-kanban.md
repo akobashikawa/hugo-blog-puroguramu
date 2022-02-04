@@ -13,7 +13,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-zkkCygK5B0o/UuFUaXFCIaI/AAAAAAAACYI/-vDBs0MFy2E/s1600/broken-team.jpg)](http://4.bp.blogspot.com/-zkkCygK5B0o/UuFUaXFCIaI/AAAAAAAACYI/-vDBs0MFy2E/s1600/broken-team.jpg)
+[![](https://4.bp.blogspot.com/-zkkCygK5B0o/UuFUaXFCIaI/AAAAAAAACYI/-vDBs0MFy2E/s1600/broken-team.jpg)](https://4.bp.blogspot.com/-zkkCygK5B0o/UuFUaXFCIaI/AAAAAAAACYI/-vDBs0MFy2E/s1600/broken-team.jpg)
 
   
 
@@ -41,7 +41,7 @@ Entendíamos la solución a la que queríamos llegar, y probablemente todos hubi
 
 Cuando terminó la jornada, me retire, pero el problema continuaba en manos que quienes podían quedarse.
 
-[![](http://1.bp.blogspot.com/-pWXdiMDltWQ/UuFUORYffUI/AAAAAAAACYA/X11kwud6iTo/s1600/donkeys-problem.jpg)](http://1.bp.blogspot.com/-pWXdiMDltWQ/UuFUORYffUI/AAAAAAAACYA/X11kwud6iTo/s1600/donkeys-problem.jpg)
+[![](https://1.bp.blogspot.com/-pWXdiMDltWQ/UuFUORYffUI/AAAAAAAACYA/X11kwud6iTo/s1600/donkeys-problem.jpg)](https://1.bp.blogspot.com/-pWXdiMDltWQ/UuFUORYffUI/AAAAAAAACYA/X11kwud6iTo/s1600/donkeys-problem.jpg)
 
   
 
@@ -89,7 +89,7 @@ Pero, si la causa es la organización, no se solucionará nada. A menos que se e
 
   
 
-[![](http://4.bp.blogspot.com/-pcY_SZPoMNk/UuFTJmbxjdI/AAAAAAAACXw/qU52izQKX5Y/s1600/HenrikKnibergKanbanFlow.JPG)](http://4.bp.blogspot.com/-pcY_SZPoMNk/UuFTJmbxjdI/AAAAAAAACXw/qU52izQKX5Y/s1600/HenrikKnibergKanbanFlow.JPG)
+[![](https://4.bp.blogspot.com/-pcY_SZPoMNk/UuFTJmbxjdI/AAAAAAAACXw/qU52izQKX5Y/s1600/HenrikKnibergKanbanFlow.JPG)](https://4.bp.blogspot.com/-pcY_SZPoMNk/UuFTJmbxjdI/AAAAAAAACXw/qU52izQKX5Y/s1600/HenrikKnibergKanbanFlow.JPG)
 
   
 
@@ -107,7 +107,7 @@ Yo pensaba que venía utilizando Kanban, al menos en mis proyectos personales. D
 
   
 
-[![](http://1.bp.blogspot.com/-uV9LrJrWjbE/UuFTVZoU8yI/AAAAAAAACX4/H7F-Kjyladg/s1600/KanbanAndScrumCover.JPG)](http://1.bp.blogspot.com/-uV9LrJrWjbE/UuFTVZoU8yI/AAAAAAAACX4/H7F-Kjyladg/s1600/KanbanAndScrumCover.JPG)
+[![](https://1.bp.blogspot.com/-uV9LrJrWjbE/UuFTVZoU8yI/AAAAAAAACX4/H7F-Kjyladg/s1600/KanbanAndScrumCover.JPG)](https://1.bp.blogspot.com/-uV9LrJrWjbE/UuFTVZoU8yI/AAAAAAAACX4/H7F-Kjyladg/s1600/KanbanAndScrumCover.JPG)
 
 Ahora estoy leyendo y aprendiendo más al respecto. Un libro que me parece sumamente útil y fácil de leer es _"Scrum y Kanban: Usando lo mejor de ambos"_, de Henrik Knigerg y Mattias Skarin.  
   

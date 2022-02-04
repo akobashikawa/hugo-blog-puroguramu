@@ -46,11 +46,11 @@ Simple HTML
 *   El contenido se divide en secciones a las que denomino pages.
 *   Cada page es el destino de un link del menú. Esto permite una navegación simple a enlaces internos.
 
-[![](http://3.bp.blogspot.com/-NWq45lMgBfI/T71r3SWPQLI/AAAAAAAAB4A/nUxS8kSmmSQ/s320/vertical-site-simple_html.png)](http://3.bp.blogspot.com/-NWq45lMgBfI/T71r3SWPQLI/AAAAAAAAB4A/nUxS8kSmmSQ/s1600/vertical-site-simple_html.png)
+[![](https://3.bp.blogspot.com/-NWq45lMgBfI/T71r3SWPQLI/AAAAAAAAB4A/nUxS8kSmmSQ/s320/vertical-site-simple_html.png)](https://3.bp.blogspot.com/-NWq45lMgBfI/T71r3SWPQLI/AAAAAAAAB4A/nUxS8kSmmSQ/s1600/vertical-site-simple_html.png)
 
 Aplicando estilos básicos:
 
-[![](http://3.bp.blogspot.com/-BGpYmnfYdmg/T711cpTypuI/AAAAAAAAB4M/9k62wkIaeNA/s320/vertical-site-simple_html_css.png)](http://3.bp.blogspot.com/-BGpYmnfYdmg/T711cpTypuI/AAAAAAAAB4M/9k62wkIaeNA/s1600/vertical-site-simple_html_css.png)
+[![](https://3.bp.blogspot.com/-BGpYmnfYdmg/T711cpTypuI/AAAAAAAAB4M/9k62wkIaeNA/s320/vertical-site-simple_html_css.png)](https://3.bp.blogspot.com/-BGpYmnfYdmg/T711cpTypuI/AAAAAAAAB4M/9k62wkIaeNA/s1600/vertical-site-simple_html_css.png)
 
   
 [index.html](https://github.com/akobashikawa/vertical-site/blob/simple_html/index.html)  
@@ -61,7 +61,7 @@ Nav fixed
 *   Se fijan los elementos de navegación: cabecera y menú.  
     En simple\_html, estaban dentro de page-0 (para permitir ver el menú cuando se fuera a HOME). Como ahora serán siempre visibles, eso no es necesario.
     
-    [![](http://4.bp.blogspot.com/-WuiRiK0CJLE/T7-0jz8PEII/AAAAAAAAB4c/-b0k9OrKJzA/s320/vertical-site-nav_fixed.png)](http://4.bp.blogspot.com/-WuiRiK0CJLE/T7-0jz8PEII/AAAAAAAAB4c/-b0k9OrKJzA/s1600/vertical-site-nav_fixed.png)
+    [![](https://4.bp.blogspot.com/-WuiRiK0CJLE/T7-0jz8PEII/AAAAAAAAB4c/-b0k9OrKJzA/s320/vertical-site-nav_fixed.png)](https://4.bp.blogspot.com/-WuiRiK0CJLE/T7-0jz8PEII/AAAAAAAAB4c/-b0k9OrKJzA/s1600/vertical-site-nav_fixed.png)
     
 *   Se implementa un indicador de posición, que señale en el menú la página activa.
 
@@ -75,7 +75,7 @@ Nav fixed
 
 *   El plugin [address](http://www.asual.com/jquery/address/) permite responder ante un cambio del url.
     
-    [![](http://4.bp.blogspot.com/-afIlfdtWGSg/T7_AK5eRxKI/AAAAAAAAB4o/cVxMr-PGofc/s320/vertical-site-nav_fixed_js.png)](http://4.bp.blogspot.com/-afIlfdtWGSg/T7_AK5eRxKI/AAAAAAAAB4o/cVxMr-PGofc/s1600/vertical-site-nav_fixed_js.png)
+    [![](https://4.bp.blogspot.com/-afIlfdtWGSg/T7_AK5eRxKI/AAAAAAAAB4o/cVxMr-PGofc/s320/vertical-site-nav_fixed_js.png)](https://4.bp.blogspot.com/-afIlfdtWGSg/T7_AK5eRxKI/AAAAAAAAB4o/cVxMr-PGofc/s1600/vertical-site-nav_fixed_js.png)
     
 
 [index.html](https://github.com/akobashikawa/vertical-site/blob/nav_fixed/index.html)  

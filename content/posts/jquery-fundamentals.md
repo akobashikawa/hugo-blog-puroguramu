@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TJPfxG0QArI/AAAAAAAABNM/p-rfo-af2-A/s1600/jquery-logo.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TJPfxG0QArI/AAAAAAAABNM/p-rfo-af2-A/s1600/jquery-logo.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TJPfxG0QArI/AAAAAAAABNM/p-rfo-af2-A/s1600/jquery-logo.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TJPfxG0QArI/AAAAAAAABNM/p-rfo-af2-A/s1600/jquery-logo.png)
 
 [jQuery Fundamentals](http://jqfundamentals.com/book/book.html)  
 Por Rebecca Murphey. Es un libro online introductorio a jQuery. Me parece muy bueno.

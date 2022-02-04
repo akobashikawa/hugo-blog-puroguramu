@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-0RvQY1w4nQ8/TxkAwHGWU_I/AAAAAAAABvI/yPAe3BjgpDc/s320/dojo_port.jpg)](http://4.bp.blogspot.com/-0RvQY1w4nQ8/TxkAwHGWU_I/AAAAAAAABvI/yPAe3BjgpDc/s1600/dojo_port.jpg)
+[![](https://4.bp.blogspot.com/-0RvQY1w4nQ8/TxkAwHGWU_I/AAAAAAAABvI/yPAe3BjgpDc/s320/dojo_port.jpg)](https://4.bp.blogspot.com/-0RvQY1w4nQ8/TxkAwHGWU_I/AAAAAAAABvI/yPAe3BjgpDc/s1600/dojo_port.jpg)
 
 Hoy asistí a un dojo de programación. Me ha parecido una experiencia muy enriquecedora.  
   

@@ -13,7 +13,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TJRBQ9wcVvI/AAAAAAAABNU/FjL55y8lWoo/s200/windows7_01.jpg)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TJRBQ9wcVvI/AAAAAAAABNU/FjL55y8lWoo/s1600/windows7_01.jpg)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TJRBQ9wcVvI/AAAAAAAABNU/FjL55y8lWoo/s200/windows7_01.jpg)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TJRBQ9wcVvI/AAAAAAAABNU/FjL55y8lWoo/s1600/windows7_01.jpg)
 
 Ocurre que en Windows 7-64b puede haber algunos problemas para correr gadgets que requieran flash.  
   

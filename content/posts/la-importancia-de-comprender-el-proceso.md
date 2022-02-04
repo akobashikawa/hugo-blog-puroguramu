@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/_K2xwnQ4Llso/St1H5HPUgpI/AAAAAAAAAHs/x8OzNyHHXSU/s320/arbol+en+manos.jpg)](http://4.bp.blogspot.com/_K2xwnQ4Llso/St1H5HPUgpI/AAAAAAAAAHs/x8OzNyHHXSU/s1600-h/arbol+en+manos.jpg)Muchas veces me he preguntado por qué frecuentemente parece tan problemático aplicar en proyectos del mundo real los esquemas de trabajo que aprendemos al estudiar.  
+[![](https://4.bp.blogspot.com/_K2xwnQ4Llso/St1H5HPUgpI/AAAAAAAAAHs/x8OzNyHHXSU/s320/arbol+en+manos.jpg)](https://4.bp.blogspot.com/_K2xwnQ4Llso/St1H5HPUgpI/AAAAAAAAAHs/x8OzNyHHXSU/s1600-h/arbol+en+manos.jpg)Muchas veces me he preguntado por qué frecuentemente parece tan problemático aplicar en proyectos del mundo real los esquemas de trabajo que aprendemos al estudiar.  
   
 El desarrollo de un sistema real suele ser un problema impreciso, a diferencia de los libros de texto, donde cada problema suele aparecer expresado de modo preciso.  
 Aún en los proyectos aparentemente simples, es normal encontrar imprecisiones en lo que el cliente tiene, lo que el cliente quiere y lo que realmente necesita.  

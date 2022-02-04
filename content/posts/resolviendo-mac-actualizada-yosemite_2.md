@@ -12,7 +12,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-WXzWj6EhwHo/VFW6IyR6qvI/AAAAAAAACio/YeyeCnAW3tw/s1600/Mavericks-vs-Yosemite_thumb800.jpg)](http://3.bp.blogspot.com/-WXzWj6EhwHo/VFW6IyR6qvI/AAAAAAAACio/YeyeCnAW3tw/s1600/Mavericks-vs-Yosemite_thumb800.jpg)
+[![](https://3.bp.blogspot.com/-WXzWj6EhwHo/VFW6IyR6qvI/AAAAAAAACio/YeyeCnAW3tw/s1600/Mavericks-vs-Yosemite_thumb800.jpg)](https://3.bp.blogspot.com/-WXzWj6EhwHo/VFW6IyR6qvI/AAAAAAAACio/YeyeCnAW3tw/s1600/Mavericks-vs-Yosemite_thumb800.jpg)
 
   
 Usando _Yosemite_ (que recientemente instalé, desde _Mavericks_), encontré que, a veces, al presentarse el diálogo de archivo, los botones aparecían debajo del docker. Para alcanzarlos tenía que ocultar el docker o moverlo a un lado.  

@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-sTQK-WQC0Ho/Tf2Vtw-p7oI/AAAAAAAABWk/FH1rCZa-_MM/s200/new-born-plant.jpg)](http://2.bp.blogspot.com/-sTQK-WQC0Ho/Tf2Vtw-p7oI/AAAAAAAABWk/FH1rCZa-_MM/s1600/new-born-plant.jpg)
+[![](https://2.bp.blogspot.com/-sTQK-WQC0Ho/Tf2Vtw-p7oI/AAAAAAAABWk/FH1rCZa-_MM/s200/new-born-plant.jpg)](https://2.bp.blogspot.com/-sTQK-WQC0Ho/Tf2Vtw-p7oI/AAAAAAAABWk/FH1rCZa-_MM/s1600/new-born-plant.jpg)
 
 Los proyectos de software no salen tan bien como se quisiera.  
   

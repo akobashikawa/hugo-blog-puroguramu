@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/TFCPr7LDwlI/AAAAAAAABJo/r89IEVJeVE4/s320/CivilSocietyIcon.jpg)](http://1.bp.blogspot.com/_K2xwnQ4Llso/TFCPr7LDwlI/AAAAAAAABJo/r89IEVJeVE4/s1600/CivilSocietyIcon.jpg)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/TFCPr7LDwlI/AAAAAAAABJo/r89IEVJeVE4/s320/CivilSocietyIcon.jpg)](https://1.bp.blogspot.com/_K2xwnQ4Llso/TFCPr7LDwlI/AAAAAAAABJo/r89IEVJeVE4/s1600/CivilSocietyIcon.jpg)
 
 Hoy, en Perú, como cada año, el Presidente da un mensaje a la nación.  
   

@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s200/Windows-7-Ubuntu-Linux.png)](http://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s1600/Windows-7-Ubuntu-Linux.png)
+[![](https://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s200/Windows-7-Ubuntu-Linux.png)](https://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s1600/Windows-7-Ubuntu-Linux.png)
 
 Hoy he instalado Ubuntu Natty Narwhal (ubuntu-11.04-desktop-i386.iso) junto a Windows 7, que ya estaba instalado. Aunque no ha sido tan fácil como parecía.  
   

@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-W1Hb_oChjZo/TV9iBZXdI_I/AAAAAAAABRU/2fU12CPVt_w/s1600/AquaSnapPortable_128.png)](http://2.bp.blogspot.com/-W1Hb_oChjZo/TV9iBZXdI_I/AAAAAAAABRU/2fU12CPVt_w/s1600/AquaSnapPortable_128.png)
+[![](https://2.bp.blogspot.com/-W1Hb_oChjZo/TV9iBZXdI_I/AAAAAAAABRU/2fU12CPVt_w/s1600/AquaSnapPortable_128.png)](https://2.bp.blogspot.com/-W1Hb_oChjZo/TV9iBZXdI_I/AAAAAAAABRU/2fU12CPVt_w/s1600/AquaSnapPortable_128.png)
 
 AquaSnap es una utilidad que puede ser de mucha ayuda en el manejo de las ventanas.  
   

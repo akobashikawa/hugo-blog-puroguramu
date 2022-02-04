@@ -17,7 +17,7 @@ _\-- Darwin_
 
   
 
-[![](http://1.bp.blogspot.com/-ibz7qr7QGKc/UnpgKJJlrLI/AAAAAAAACUY/AjeN47E0MnA/s320/Darwin's_finches_by_Gould.jpg)](http://1.bp.blogspot.com/-ibz7qr7QGKc/UnpgKJJlrLI/AAAAAAAACUY/AjeN47E0MnA/s1600/Darwin's_finches_by_Gould.jpg)
+[![](https://1.bp.blogspot.com/-ibz7qr7QGKc/UnpgKJJlrLI/AAAAAAAACUY/AjeN47E0MnA/s320/Darwin's_finches_by_Gould.jpg)](https://1.bp.blogspot.com/-ibz7qr7QGKc/UnpgKJJlrLI/AAAAAAAACUY/AjeN47E0MnA/s1600/Darwin's_finches_by_Gould.jpg)
 
 En internet, parece ocurrir algo similar. No prosperan los lenguajes de programación que te hagan más fuerte, sino los que te permitan adaptarte mejor al cambio... en cierto ambiente.
 
@@ -43,7 +43,7 @@ Así podemos aprender nuevas canciones :-)
 
   
 
-[![](http://2.bp.blogspot.com/-l666qMKP5-0/Unpf6SAR9OI/AAAAAAAACUQ/Fu-Zgf-Imuw/s320/darwin.jpg)](http://2.bp.blogspot.com/-l666qMKP5-0/Unpf6SAR9OI/AAAAAAAACUQ/Fu-Zgf-Imuw/s1600/darwin.jpg)¿Cuánto puede mejorar tu software? ¿Qué tan clara es la especificación? A más ciclos de desarrollo, más probabilidad de acercarse al ideal.
+[![](https://2.bp.blogspot.com/-l666qMKP5-0/Unpf6SAR9OI/AAAAAAAACUQ/Fu-Zgf-Imuw/s320/darwin.jpg)](https://2.bp.blogspot.com/-l666qMKP5-0/Unpf6SAR9OI/AAAAAAAACUQ/Fu-Zgf-Imuw/s1600/darwin.jpg)¿Cuánto puede mejorar tu software? ¿Qué tan clara es la especificación? A más ciclos de desarrollo, más probabilidad de acercarse al ideal.
 
   
 

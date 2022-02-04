@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s200/Windows-7-Ubuntu-Linux.png)](http://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s1600/Windows-7-Ubuntu-Linux.png)
+[![](https://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s200/Windows-7-Ubuntu-Linux.png)](https://2.bp.blogspot.com/-yEzZU-vUNME/TebOTGXljkI/AAAAAAAABVk/UAosUOEB_NA/s1600/Windows-7-Ubuntu-Linux.png)
 
 **Virtualbox** es una aplicación que permite instalar un sistema operativo dentro de otro. Por ejemplo, puedo instalar Ubuntu Linux dentro de Windows 7. En el caso que describo a continuación, está instalado **Windows XP** dentro de **Ubuntu Linux** (Natty Narwhal).  
   

@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-JQM6dfKbOmU/TsU3t0pbz_I/AAAAAAAABqU/jxYxBYZioG0/s1600/Adobe-Photoshop-Icon-64.png)](http://1.bp.blogspot.com/-JQM6dfKbOmU/TsU3t0pbz_I/AAAAAAAABqU/jxYxBYZioG0/s1600/Adobe-Photoshop-Icon-64.png)
+[![](https://1.bp.blogspot.com/-JQM6dfKbOmU/TsU3t0pbz_I/AAAAAAAABqU/jxYxBYZioG0/s1600/Adobe-Photoshop-Icon-64.png)](https://1.bp.blogspot.com/-JQM6dfKbOmU/TsU3t0pbz_I/AAAAAAAABqU/jxYxBYZioG0/s1600/Adobe-Photoshop-Icon-64.png)
 
 *   _Edit, Preferences, General (CTRL+K)_
 *   Desmarcar _Export Clipboard_

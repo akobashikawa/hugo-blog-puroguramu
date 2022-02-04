@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s200/windows7_01.jpg)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s1600/windows7_01.jpg)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s200/windows7_01.jpg)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s1600/windows7_01.jpg)
 
 Al iniciarse Windows 7, puede ser que se detenga en una pantalla de usuarios antes de llegar al escritorio. Allí aparecen los iconos de cada usuario disponible, permitiendo elegir alguno para entrar, posiblemente con una contraseña.  
   

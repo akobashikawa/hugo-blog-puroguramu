@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/TFmzwAovvbI/AAAAAAAABKU/N4iNGCs3gvQ/s200/img_locked_file.jpg)](http://3.bp.blogspot.com/_K2xwnQ4Llso/TFmzwAovvbI/AAAAAAAABKU/N4iNGCs3gvQ/s1600/img_locked_file.jpg)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/TFmzwAovvbI/AAAAAAAABKU/N4iNGCs3gvQ/s200/img_locked_file.jpg)](https://3.bp.blogspot.com/_K2xwnQ4Llso/TFmzwAovvbI/AAAAAAAABKU/N4iNGCs3gvQ/s1600/img_locked_file.jpg)
 
 A veces es frustrante cuando se quiere eliminar un archivo y el sistema responde que no es posible porque está siendo usado por otra aplicación. Sobre todo cuando no es evidente cuál es la otra aplicación.  
   

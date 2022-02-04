@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-Mg-yj48ko3k/Ug6P6B1JXUI/AAAAAAAACKw/ThcrDaI6mvU/s1600/dropbox-hosting.jpg)](http://2.bp.blogspot.com/-Mg-yj48ko3k/Ug6P6B1JXUI/AAAAAAAACKw/ThcrDaI6mvU/s1600/dropbox-hosting.jpg)
+[![](https://2.bp.blogspot.com/-Mg-yj48ko3k/Ug6P6B1JXUI/AAAAAAAACKw/ThcrDaI6mvU/s1600/dropbox-hosting.jpg)](https://2.bp.blogspot.com/-Mg-yj48ko3k/Ug6P6B1JXUI/AAAAAAAACKw/ThcrDaI6mvU/s1600/dropbox-hosting.jpg)
 
   
 Dropbox puede servir como **CDN**, para centralizar bibliotecas de imágenes, scripts y otros recursos estáticos (html, css, js) que usemos con frecuencia.
@@ -41,7 +41,7 @@ Con ayuda
 
 También hay servicios (con planes gratuitos disponibles) que facilitan usar dropbox para hosting:
 
-[![](http://2.bp.blogspot.com/-U6oBF77iN3g/Ug6QNIMZW9I/AAAAAAAACK4/A4SCxNmPqNU/s1600/pancake.png)](http://2.bp.blogspot.com/-U6oBF77iN3g/Ug6QNIMZW9I/AAAAAAAACK4/A4SCxNmPqNU/s1600/pancake.png)
+[![](https://2.bp.blogspot.com/-U6oBF77iN3g/Ug6QNIMZW9I/AAAAAAAACK4/A4SCxNmPqNU/s1600/pancake.png)](https://2.bp.blogspot.com/-U6oBF77iN3g/Ug6QNIMZW9I/AAAAAAAACK4/A4SCxNmPqNU/s1600/pancake.png)
 
 *   [http://pancake.io/](http://pancake.io/)
 

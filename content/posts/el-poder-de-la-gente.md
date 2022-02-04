@@ -13,7 +13,7 @@ tags:
 
   
 
-[![](http://3.bp.blogspot.com/-kGNHbvHkmw4/TAr5A7STm2I/AAAAAAAABII/w7vL0w3HJKA/s320/istock-social-network.jpg)](http://3.bp.blogspot.com/-kGNHbvHkmw4/TAr5A7STm2I/AAAAAAAABII/w7vL0w3HJKA/s1600/istock-social-network.jpg)
+[![](https://3.bp.blogspot.com/-kGNHbvHkmw4/TAr5A7STm2I/AAAAAAAABII/w7vL0w3HJKA/s320/istock-social-network.jpg)](https://3.bp.blogspot.com/-kGNHbvHkmw4/TAr5A7STm2I/AAAAAAAABII/w7vL0w3HJKA/s1600/istock-social-network.jpg)
 
 Hay una idea en Internet que me parece notable. Lograr que la gente lo pueda hacer por nosotros, voluntariamente. Una red social seria sostenible si logra que sus usuarios la construyan. Y seria un negocio para el intermediario que facilitara el proceso.  
   

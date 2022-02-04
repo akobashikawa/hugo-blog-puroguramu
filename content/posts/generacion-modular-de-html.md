@@ -23,7 +23,7 @@ Ese suele se el enfoque más usado. Practicamente siempre que use C, Java, PHP, 
   
 Frameworks exclusivos  
 
-[![](http://1.bp.blogspot.com/-ZFfl-lfhfaA/Tht63DV_zMI/AAAAAAAABXc/ntK3Ds6R2pU/s200/generador-total-html.png)](http://1.bp.blogspot.com/-ZFfl-lfhfaA/Tht63DV_zMI/AAAAAAAABXc/ntK3Ds6R2pU/s1600/generador-total-html.png)
+[![](https://1.bp.blogspot.com/-ZFfl-lfhfaA/Tht63DV_zMI/AAAAAAAABXc/ntK3Ds6R2pU/s200/generador-total-html.png)](https://1.bp.blogspot.com/-ZFfl-lfhfaA/Tht63DV_zMI/AAAAAAAABXc/ntK3Ds6R2pU/s1600/generador-total-html.png)
 
 El enfoque de la generación total tiene el problema de tender a soluciones monolíticas, con sus vicios asociados.  
   
@@ -37,7 +37,7 @@ Un montón de trabajo repetido.
   
 Frameworks inclusivos  
 
-[![](http://2.bp.blogspot.com/-vehqqtlfaAc/Tht6-C29-7I/AAAAAAAABXg/Ql6oLmYpE_4/s200/generacion-parcial-html.png)](http://2.bp.blogspot.com/-vehqqtlfaAc/Tht6-C29-7I/AAAAAAAABXg/Ql6oLmYpE_4/s1600/generacion-parcial-html.png)
+[![](https://2.bp.blogspot.com/-vehqqtlfaAc/Tht6-C29-7I/AAAAAAAABXg/Ql6oLmYpE_4/s200/generacion-parcial-html.png)](https://2.bp.blogspot.com/-vehqqtlfaAc/Tht6-C29-7I/AAAAAAAABXg/Ql6oLmYpE_4/s1600/generacion-parcial-html.png)
 
 Una alternativa podría ser hacer **generadores modulares**. En lugar de generar el html de toda la página, un generador modular sólo produce el html de cierta región específica.  
   

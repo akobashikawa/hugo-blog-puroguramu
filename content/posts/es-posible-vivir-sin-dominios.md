@@ -39,7 +39,7 @@ No importará que conduzca a un url con un número. Muchos ni se darán cuenta d
 Me pregunto, ¿sería posible vivir sin dominios?. Quizás si no vamos a necesitarlo para un correo corporativo es más sencillo. Si sólo es para tener un site, me parece posible.  
   
 
-[![](http://3.bp.blogspot.com/-2ZOsEWP1uUU/UrRvpQnfY_I/AAAAAAAACWc/scwOObjx8TI/s320/freedom_quote_2.jpg)](http://3.bp.blogspot.com/-2ZOsEWP1uUU/UrRvpQnfY_I/AAAAAAAACWc/scwOObjx8TI/s1600/freedom_quote_2.jpg)
+[![](https://3.bp.blogspot.com/-2ZOsEWP1uUU/UrRvpQnfY_I/AAAAAAAACWc/scwOObjx8TI/s320/freedom_quote_2.jpg)](https://3.bp.blogspot.com/-2ZOsEWP1uUU/UrRvpQnfY_I/AAAAAAAACWc/scwOObjx8TI/s1600/freedom_quote_2.jpg)
 
 **_The Pirate Bay_** (TPB) es un site que permite compartir torrents. Los torrents permiten formar archivos con partes distruibuidas por la red. Pueden ser archivos de cualquier tipo.  
   
@@ -54,6 +54,6 @@ Ellos anuncian que pronto usarán un sistema donde no importarán los dominios.
 Viéndolo un poco en perspectiva, quizás los dominios son como una facilidad que camufla un control central. Los controles centralizados no son muy amigos del espíritu de Internet, que quizás se mueve con más fluidez en un mundo de IP y anonimato. Tal vez sea mejor dejarlos atrás y buscar un modo descentralizado y libre de lograr lo que buscamos.  
   
 
-[![](http://1.bp.blogspot.com/-4_k46Agxl5A/UrRv0lSeEpI/AAAAAAAACWk/guGEQWQxxlc/s320/freedom.jpg)](http://1.bp.blogspot.com/-4_k46Agxl5A/UrRv0lSeEpI/AAAAAAAACWk/guGEQWQxxlc/s1600/freedom.jpg)
+[![](https://1.bp.blogspot.com/-4_k46Agxl5A/UrRv0lSeEpI/AAAAAAAACWk/guGEQWQxxlc/s320/freedom.jpg)](https://1.bp.blogspot.com/-4_k46Agxl5A/UrRv0lSeEpI/AAAAAAAACWk/guGEQWQxxlc/s1600/freedom.jpg)
 
 _*Url archivado: [¿Es posible vivir sin dominios?](https://akcdev.blogspot.com/2013/12/es-posible-vivir-sin-dominios.html)*_

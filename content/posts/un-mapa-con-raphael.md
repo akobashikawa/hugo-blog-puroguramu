@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/THdVyweqr6I/AAAAAAAABLc/BSf1k8xASfE/s200/Raphael_1.jpg)](http://3.bp.blogspot.com/_K2xwnQ4Llso/THdVyweqr6I/AAAAAAAABLc/BSf1k8xASfE/s1600/Raphael_1.jpg)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/THdVyweqr6I/AAAAAAAABLc/BSf1k8xASfE/s200/Raphael_1.jpg)](https://3.bp.blogspot.com/_K2xwnQ4Llso/THdVyweqr6I/AAAAAAAABLc/BSf1k8xASfE/s1600/Raphael_1.jpg)
 
 [Raphäel](http://raphaeljs.com/) es una biblioteca javascript que permite incorporar a la página imágenes vectoriales.  
 
@@ -158,7 +158,7 @@ Para el ejemplo del mapa, tardé varios días en descubrir el modo de usar hover
 El mapa
 -------
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/THdW3rmxIoI/AAAAAAAABLk/aQLK1BnMGQE/s320/mapa_raphael.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/THdW3rmxIoI/AAAAAAAABLk/aQLK1BnMGQE/s1600/mapa_raphael.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/THdW3rmxIoI/AAAAAAAABLk/aQLK1BnMGQE/s320/mapa_raphael.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/THdW3rmxIoI/AAAAAAAABLk/aQLK1BnMGQE/s1600/mapa_raphael.png)
 
   
 La idea es tener el mapa del Perú con sus departamentos, y que estos se resalten al pasar el mouse sobre ellos. Al hacer click en alguno, se dispara alguna acción, por ejemplo mostrar su nombre en una caja.  

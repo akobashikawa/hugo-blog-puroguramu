@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-3YKFAHdviag/S1CjewJ-MVI/AAAAAAAAAMg/JTfeebYypaI/s200/20-xampp-logo-trio.jpg)](http://4.bp.blogspot.com/-3YKFAHdviag/S1CjewJ-MVI/AAAAAAAAAMg/JTfeebYypaI/s1600/20-xampp-logo-trio.jpg)
+[![](https://4.bp.blogspot.com/-3YKFAHdviag/S1CjewJ-MVI/AAAAAAAAAMg/JTfeebYypaI/s200/20-xampp-logo-trio.jpg)](https://4.bp.blogspot.com/-3YKFAHdviag/S1CjewJ-MVI/AAAAAAAAAMg/JTfeebYypaI/s1600/20-xampp-logo-trio.jpg)
 
 XAMPP empaqueta Apache, MySQL, PHP y otros programas que se suelen usar en programación web.  
   

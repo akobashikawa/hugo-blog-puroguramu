@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-KN9y9gdNwMA/TCblvBwx54I/AAAAAAAABIY/UwlET9KGn8I/s200/blogger-logo.jpg)](http://1.bp.blogspot.com/-KN9y9gdNwMA/TCblvBwx54I/AAAAAAAABIY/UwlET9KGn8I/s1600/blogger-logo.jpg)
+[![](https://1.bp.blogspot.com/-KN9y9gdNwMA/TCblvBwx54I/AAAAAAAABIY/UwlET9KGn8I/s200/blogger-logo.jpg)](https://1.bp.blogspot.com/-KN9y9gdNwMA/TCblvBwx54I/AAAAAAAABIY/UwlET9KGn8I/s1600/blogger-logo.jpg)
 
 Puede ser que al usar la plantilla de vista dinámica en blogger, hayas notado que el fondo ya no aparece, o que la mayoría de imágenes no se ha cargado.  
   

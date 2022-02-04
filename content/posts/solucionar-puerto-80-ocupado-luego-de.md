@@ -12,7 +12,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-YoQvafbtfsc/TJRBQ9wcVvI/AAAAAAAABNU/OgvJYz_5BEs/s200/windows7_01.jpg)](http://1.bp.blogspot.com/-YoQvafbtfsc/TJRBQ9wcVvI/AAAAAAAABNU/OgvJYz_5BEs/s1600/windows7_01.jpg)
+[![](https://1.bp.blogspot.com/-YoQvafbtfsc/TJRBQ9wcVvI/AAAAAAAABNU/OgvJYz_5BEs/s200/windows7_01.jpg)](https://1.bp.blogspot.com/-YoQvafbtfsc/TJRBQ9wcVvI/AAAAAAAABNU/OgvJYz_5BEs/s1600/windows7_01.jpg)
 
 Resolver esto me ha tomado un tiempo. Espero le resulte de ayuda a alguien.  
   

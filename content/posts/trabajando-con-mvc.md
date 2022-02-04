@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/SvyGhDAupyI/AAAAAAAAAIE/BMymWRYXVuo/s320/zen_piedras.jpg)](http://1.bp.blogspot.com/_K2xwnQ4Llso/SvyGhDAupyI/AAAAAAAAAIE/BMymWRYXVuo/s1600-h/zen_piedras.jpg)  
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/SvyGhDAupyI/AAAAAAAAAIE/BMymWRYXVuo/s320/zen_piedras.jpg)](https://1.bp.blogspot.com/_K2xwnQ4Llso/SvyGhDAupyI/AAAAAAAAAIE/BMymWRYXVuo/s1600-h/zen_piedras.jpg)  
 
 Lo que suelo hacer es ir como el cangrejo, de atrás para adelante:  
 

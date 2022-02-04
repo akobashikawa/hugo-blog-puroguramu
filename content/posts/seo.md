@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-mT6lJasnOJI/TnefYLM9YgI/AAAAAAAABog/CVg_sE02cIM/s1600/googlebot.png)](http://3.bp.blogspot.com/-mT6lJasnOJI/TnefYLM9YgI/AAAAAAAABog/CVg_sE02cIM/s1600/googlebot.png)
+[![](https://3.bp.blogspot.com/-mT6lJasnOJI/TnefYLM9YgI/AAAAAAAABog/CVg_sE02cIM/s1600/googlebot.png)](https://3.bp.blogspot.com/-mT6lJasnOJI/TnefYLM9YgI/AAAAAAAABog/CVg_sE02cIM/s1600/googlebot.png)
 
 SEO es como se denomina al trabajo de optimizar páginas web para facilitar su procesamiento por los buscadores (el término proviene de las siglas de _Search Engine Optimization_: Optimización para Máquinas de Búsqueda).  
   

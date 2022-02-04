@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-9xMEdU2btdw/Ukw7wYIV6NI/AAAAAAAACQ8/sO3pxk__rhY/s320/Tarako_spaghetti.jpg)](http://1.bp.blogspot.com/-9xMEdU2btdw/Ukw7wYIV6NI/AAAAAAAACQ8/sO3pxk__rhY/s1600/Tarako_spaghetti.jpg)
+[![](https://1.bp.blogspot.com/-9xMEdU2btdw/Ukw7wYIV6NI/AAAAAAAACQ8/sO3pxk__rhY/s320/Tarako_spaghetti.jpg)](https://1.bp.blogspot.com/-9xMEdU2btdw/Ukw7wYIV6NI/AAAAAAAACQ8/sO3pxk__rhY/s1600/Tarako_spaghetti.jpg)
 
   
 Se nos ha enseñado acerca del código spaghetti. Como los producidos por abusar del goto en BASIC. O por abusar de los callbacks en Javascript.  
@@ -36,6 +36,6 @@ Pero, ¿sería posible manejar el caos, en lugar de huir de él? ¿alguna metodo
 
   
 
-_Crédito de la imágen: [http://upload.wikimedia.org/wikipedia/commons/e/ee/Tarako\_spaghetti.jpg](http://upload.wikimedia.org/wikipedia/commons/e/ee/Tarako_spaghetti.jpg)_
+_Crédito de la imágen: [https://upload.wikimedia.org/wikipedia/commons/e/ee/Tarako\_spaghetti.jpg](https://upload.wikimedia.org/wikipedia/commons/e/ee/Tarako_spaghetti.jpg)_
 
 _*Url archivado: [Spaghetti code](https://akcdev.blogspot.com/2013/10/spaghetti-code.html)*_

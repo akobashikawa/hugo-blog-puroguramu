@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-8Mxk6SJDKDw/UqS6vtvJVbI/AAAAAAAACVw/hkYOjoMwBLw/s320/Android-Root.png)](http://4.bp.blogspot.com/-8Mxk6SJDKDw/UqS6vtvJVbI/AAAAAAAACVw/hkYOjoMwBLw/s1600/Android-Root.png)
+[![](https://4.bp.blogspot.com/-8Mxk6SJDKDw/UqS6vtvJVbI/AAAAAAAACVw/hkYOjoMwBLw/s320/Android-Root.png)](https://4.bp.blogspot.com/-8Mxk6SJDKDw/UqS6vtvJVbI/AAAAAAAACVw/hkYOjoMwBLw/s1600/Android-Root.png)
 
   
 
@@ -38,7 +38,7 @@ Root
 
 ### Link2SD
 
-[![](http://1.bp.blogspot.com/-wvfSHW6I-KI/UqS62jkhYII/AAAAAAAACV8/L4gF9iV0kuc/s200/android-sd-card.jpg)](http://1.bp.blogspot.com/-wvfSHW6I-KI/UqS62jkhYII/AAAAAAAACV8/L4gF9iV0kuc/s1600/android-sd-card.jpg)
+[![](https://1.bp.blogspot.com/-wvfSHW6I-KI/UqS62jkhYII/AAAAAAAACV8/L4gF9iV0kuc/s200/android-sd-card.jpg)](https://1.bp.blogspot.com/-wvfSHW6I-KI/UqS62jkhYII/AAAAAAAACV8/L4gF9iV0kuc/s1600/android-sd-card.jpg)
 
 *   Luego del rooteo, para usar la app **[Link2SD](https://play.google.com/store/apps/details?id=com.buak.Link2SD)** para enlazar las aplicaciones a la memoria **SD externa**, se requiere que además se haga una segunda partición primaria en esa memoria. Para ello se puede seguir la guía [http://forum.xda-developers.com/wiki/SD\_card\_partitioning](http://forum.xda-developers.com/wiki/SD_card_partitioning), que usa el programa Mini Partition Wizard. Una guía alternativa es [http://www.htcmania.com/showthread.php?t=540481](http://www.htcmania.com/showthread.php?t=540481).
 

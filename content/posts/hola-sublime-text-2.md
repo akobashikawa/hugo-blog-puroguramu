@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-GAcPqZLiy-E/T0WtNTBdyJI/AAAAAAAABvs/-KutAcqdQUM/s1600/sublimetext2-icon.png)](http://3.bp.blogspot.com/-GAcPqZLiy-E/T0WtNTBdyJI/AAAAAAAABvs/-KutAcqdQUM/s1600/sublimetext2-icon.png)
+[![](https://3.bp.blogspot.com/-GAcPqZLiy-E/T0WtNTBdyJI/AAAAAAAABvs/-KutAcqdQUM/s1600/sublimetext2-icon.png)](https://3.bp.blogspot.com/-GAcPqZLiy-E/T0WtNTBdyJI/AAAAAAAABvs/-KutAcqdQUM/s1600/sublimetext2-icon.png)
 
 [Sublime Text 2](http://www.sublimetext.com/2) es un nuevo editor de texto que estoy probando.  
   

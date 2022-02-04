@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-1XwibE4-3b8/UnGEdlMV9XI/AAAAAAAACTo/TsNwAF0Lt24/s1600/ajedrez-rey_plan.gif)](http://3.bp.blogspot.com/-1XwibE4-3b8/UnGEdlMV9XI/AAAAAAAACTo/TsNwAF0Lt24/s1600/ajedrez-rey_plan.gif)
+[![](https://3.bp.blogspot.com/-1XwibE4-3b8/UnGEdlMV9XI/AAAAAAAACTo/TsNwAF0Lt24/s1600/ajedrez-rey_plan.gif)](https://3.bp.blogspot.com/-1XwibE4-3b8/UnGEdlMV9XI/AAAAAAAACTo/TsNwAF0Lt24/s1600/ajedrez-rey_plan.gif)
 
 ¿Qué tan buenas partidas de ajedrez puedes jugar mentalmente?  
 
@@ -61,6 +61,6 @@ Inténtalo en tus reuniones. Escribe qué quieres lograr, escribe qué es lo que
 Podrás ver la partida que juegas. Podrás imaginar más variantes y jugadas. Será más fácil volver sobre ella y reflexionar. Será más fácil mejorar las cosas e ir mejorando.  
   
 
-_Crédito de la imágen: [http://www.ajedrezleganes.com/images//ajedrez2.gif](http://www.ajedrezleganes.com/images//ajedrez2.gif)_
+_Crédito de la imágen: [https://www.ajedrezleganes.com/images//ajedrez2.gif](https://www.ajedrezleganes.com/images//ajedrez2.gif)_
 
 _*Url archivado: [Ajedrez Mental](https://akcdev.blogspot.com/2013/10/ajedrez-mental.html)*_

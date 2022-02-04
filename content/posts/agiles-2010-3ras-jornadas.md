@@ -27,7 +27,7 @@ speakers Lee Devin y Joshua Kerievsky, que también estarán brindando
 cursos durante el evento.  
   
 
-[![](http://agiles2010.agiles.org/wp-content/uploads/2010/04/banner-es.gif)](http://agiles2010.agiles.org/wp-content/uploads/2010/04/banner-es.gif)
+[![](https://agiles2010.agiles.org/wp-content/uploads/2010/04/banner-es.gif)](https://agiles2010.agiles.org/wp-content/uploads/2010/04/banner-es.gif)
 
   
 **¡[Inscríbete](http://agiles2010.agiles.org/lang/es/inscripcion/) y se parte de Ágiles 2010!**

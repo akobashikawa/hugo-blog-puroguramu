@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/_K2xwnQ4Llso/TEohBxEEVHI/AAAAAAAABJg/VqKW0rvixoU/s200/us-games-juggling-balls.jpg)](http://4.bp.blogspot.com/_K2xwnQ4Llso/TEohBxEEVHI/AAAAAAAABJg/VqKW0rvixoU/s1600/us-games-juggling-balls.jpg)
+[![](https://4.bp.blogspot.com/_K2xwnQ4Llso/TEohBxEEVHI/AAAAAAAABJg/VqKW0rvixoU/s200/us-games-juggling-balls.jpg)](https://4.bp.blogspot.com/_K2xwnQ4Llso/TEohBxEEVHI/AAAAAAAABJg/VqKW0rvixoU/s1600/us-games-juggling-balls.jpg)
 
 Normalmente, una lista tipo **ul** luce así:  
 
@@ -68,9 +68,9 @@ En este ejemplo aplico los estilos en línea, para ilustrar la idea. Sin embargo
 *   Item 2: Bullet a la derecha
 
   
-Puede ver un demo en [aquí](http://www.kobaonline.com/rulo/demos/html-bullets/)  
+Puede ver un demo en [aquí](https://www.kobaonline.com/rulo/demos/html-bullets/)  
   
 
-_Crédito de la imagen: [http://www.robbinssports.com](http://www.robbinssports.com/sporting-goods-store/images/us-games-juggling-balls.jpg)_
+_Crédito de la imagen: [https://www.robbinssports.com](https://www.robbinssports.com/sporting-goods-store/images/us-games-juggling-balls.jpg)_
 
 _*Url archivado: [Personalizando bullets](https://akcdev.blogspot.com/2010/07/personalizando-bullets.html)*_

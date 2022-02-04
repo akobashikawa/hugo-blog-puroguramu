@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-_z5yeJZuETw/TVrCEUiUoII/AAAAAAAABRM/qgkQE6nPhLw/s200/git_tux.png)](http://4.bp.blogspot.com/-_z5yeJZuETw/TVrCEUiUoII/AAAAAAAABRM/qgkQE6nPhLw/s1600/git_tux.png)
+[![](https://4.bp.blogspot.com/-_z5yeJZuETw/TVrCEUiUoII/AAAAAAAABRM/qgkQE6nPhLw/s200/git_tux.png)](https://4.bp.blogspot.com/-_z5yeJZuETw/TVrCEUiUoII/AAAAAAAABRM/qgkQE6nPhLw/s1600/git_tux.png)
 
 Para comprobar si se tiene instalado Git, ejecutar:  
   

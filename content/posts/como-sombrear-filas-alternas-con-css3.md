@@ -12,7 +12,7 @@ A esta forma de presentar filas se le suele llamar cebra.
   
 **Caso Tabla**  
 
-[![](http://2.bp.blogspot.com/-wCaJOl-tDdc/TbMHzuF-gKI/AAAAAAAABUo/hT5OSXrRZaY/s1600/zebra-table.png)](http://2.bp.blogspot.com/-wCaJOl-tDdc/TbMHzuF-gKI/AAAAAAAABUo/hT5OSXrRZaY/s1600/zebra-table.png)
+[![](https://2.bp.blogspot.com/-wCaJOl-tDdc/TbMHzuF-gKI/AAAAAAAABUo/hT5OSXrRZaY/s1600/zebra-table.png)](https://2.bp.blogspot.com/-wCaJOl-tDdc/TbMHzuF-gKI/AAAAAAAABUo/hT5OSXrRZaY/s1600/zebra-table.png)
 
   
 **HTML**  
@@ -63,7 +63,7 @@ table.zebra {
 ```  
 **Caso Lista**  
 
-[![](http://2.bp.blogspot.com/-YtxG-MZiw5Y/TbMIAXy9llI/AAAAAAAABUs/5T-rZUZMAKs/s1600/zebra-list.png)](http://2.bp.blogspot.com/-YtxG-MZiw5Y/TbMIAXy9llI/AAAAAAAABUs/5T-rZUZMAKs/s1600/zebra-list.png)
+[![](https://2.bp.blogspot.com/-YtxG-MZiw5Y/TbMIAXy9llI/AAAAAAAABUs/5T-rZUZMAKs/s1600/zebra-list.png)](https://2.bp.blogspot.com/-YtxG-MZiw5Y/TbMIAXy9llI/AAAAAAAABUs/5T-rZUZMAKs/s1600/zebra-list.png)
 
   
 **HTML**  

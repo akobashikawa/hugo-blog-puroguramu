@@ -10,9 +10,9 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-N0g311E0a9w/TDepqPckZoI/AAAAAAAABJQ/E9ODF_y8rf4/s1600/center_in_page.png)](http://3.bp.blogspot.com/-N0g311E0a9w/TDepqPckZoI/AAAAAAAABJQ/E9ODF_y8rf4/s1600/center_in_page.png)
+[![](https://3.bp.blogspot.com/-N0g311E0a9w/TDepqPckZoI/AAAAAAAABJQ/E9ODF_y8rf4/s1600/center_in_page.png)](https://3.bp.blogspot.com/-N0g311E0a9w/TDepqPckZoI/AAAAAAAABJQ/E9ODF_y8rf4/s1600/center_in_page.png)
 
-En el artículo [Cómo centrar un bloque en una página](http://akcdev.blogspot.com/2010/07/como-centrar-un-bloque-en-una-pagina.html), contaba sobre un método que venía utilizando para lograr centrar un bloque en una página.  
+En el artículo [Cómo centrar un bloque en una página](https://akcdev.blogspot.com/2010/07/como-centrar-un-bloque-en-una-pagina.html), contaba sobre un método que venía utilizando para lograr centrar un bloque en una página.  
   
 Ayer, un amigo me mostró una página posicionada de ese modo que no cabía en la ventana de su navegador Safari. Este mostraba el centro pero no permitía alcanzar la cabecera, ni siquiera usando la barra de scroll. En otros navegadores, como Firefox, Chrome e incluso Internet Explorer, si un bloque no cabe en la ventana, se muestra lo que quepa, de arriba hacia abajo. Pero en el suyo lo hacía desde el centro hacia afuera.  
   
@@ -88,7 +88,7 @@ body {
 ```  
 Observar que la información de la altura del bloque de contenido (#page) está presente tanto en el bloque de contenido como en el bloque auxiliar (#vertical-float).  
 
-[![](http://3.bp.blogspot.com/-XM5EBSwSBY4/T_SurFg_MTI/AAAAAAAAB7E/kVUKORoyZAY/s320/center_in_page.jpg)](http://3.bp.blogspot.com/-XM5EBSwSBY4/T_SurFg_MTI/AAAAAAAAB7E/kVUKORoyZAY/s1600/center_in_page.jpg)
+[![](https://3.bp.blogspot.com/-XM5EBSwSBY4/T_SurFg_MTI/AAAAAAAAB7E/kVUKORoyZAY/s320/center_in_page.jpg)](https://3.bp.blogspot.com/-XM5EBSwSBY4/T_SurFg_MTI/AAAAAAAAB7E/kVUKORoyZAY/s1600/center_in_page.jpg)
 
   
 **Referencias**  

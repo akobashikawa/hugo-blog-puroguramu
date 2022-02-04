@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/S5l7sJX_lRI/AAAAAAAAAZg/I_4t-yWSCqY/s200/windows7_01.jpg)](http://3.bp.blogspot.com/_K2xwnQ4Llso/S5l7sJX_lRI/AAAAAAAAAZg/I_4t-yWSCqY/s1600-h/windows7_01.jpg)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/S5l7sJX_lRI/AAAAAAAAAZg/I_4t-yWSCqY/s200/windows7_01.jpg)](https://3.bp.blogspot.com/_K2xwnQ4Llso/S5l7sJX_lRI/AAAAAAAAAZg/I_4t-yWSCqY/s1600-h/windows7_01.jpg)
 
 En Linux, un enlace simbólico es un archivo o directorio ficticio que representa a un archivo o directorio real.  
   

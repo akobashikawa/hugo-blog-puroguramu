@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-vrL9wPbQjSc/TZtMfP_6RgI/AAAAAAAABUU/jiFZ_gtcsSk/s1600/Adobe_Flash_Pro_CS5_icon-100.png)](http://2.bp.blogspot.com/-vrL9wPbQjSc/TZtMfP_6RgI/AAAAAAAABUU/jiFZ_gtcsSk/s1600/Adobe_Flash_Pro_CS5_icon-100.png)
+[![](https://2.bp.blogspot.com/-vrL9wPbQjSc/TZtMfP_6RgI/AAAAAAAABUU/jiFZ_gtcsSk/s1600/Adobe_Flash_Pro_CS5_icon-100.png)](https://2.bp.blogspot.com/-vrL9wPbQjSc/TZtMfP_6RgI/AAAAAAAABUU/jiFZ_gtcsSk/s1600/Adobe_Flash_Pro_CS5_icon-100.png)
 
 Para aprovechar esta característica, el documento flash debe ser para Flash 10 y Actionscript 3.  
   

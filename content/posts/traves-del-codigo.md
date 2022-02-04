@@ -12,7 +12,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/S_K8TzEnlHI/AAAAAAAABHg/Ws4CQG5PSLA/s320/seethematrix.jpg)](http://3.bp.blogspot.com/_K2xwnQ4Llso/S_K8TzEnlHI/AAAAAAAABHg/Ws4CQG5PSLA/s1600/seethematrix.jpg)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/S_K8TzEnlHI/AAAAAAAABHg/Ws4CQG5PSLA/s320/seethematrix.jpg)](https://3.bp.blogspot.com/_K2xwnQ4Llso/S_K8TzEnlHI/AAAAAAAABHg/Ws4CQG5PSLA/s1600/seethematrix.jpg)
 
 Dicen que quien no conoce la historia está condenado a repetirla. Es importante registrar las cosas.  
 Sin embargo, tiene que haber una forma de visualizar fácilmente aquello que se ha registrado. Para comprenderla. Quizás se debería decir, en realidad, que quien no comprende la historia es quien está condenado a repetirla.  

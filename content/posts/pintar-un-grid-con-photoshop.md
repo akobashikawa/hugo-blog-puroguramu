@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TSHptmCRWCI/AAAAAAAABPs/h3_1N5t3j4k/s1600/photoshop-grid.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TSHptmCRWCI/AAAAAAAABPs/h3_1N5t3j4k/s1600/photoshop-grid.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TSHptmCRWCI/AAAAAAAABPs/h3_1N5t3j4k/s1600/photoshop-grid.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TSHptmCRWCI/AAAAAAAABPs/h3_1N5t3j4k/s1600/photoshop-grid.png)
 
 1  
 Definir el patrón del grid.  

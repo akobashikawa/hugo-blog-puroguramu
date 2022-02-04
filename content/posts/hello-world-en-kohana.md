@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/Svea8SS64TI/AAAAAAAAAH8/rgUb2suoeqk/s200/kohana.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/Svea8SS64TI/AAAAAAAAAH8/rgUb2suoeqk/s1600-h/kohana.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/Svea8SS64TI/AAAAAAAAAH8/rgUb2suoeqk/s200/kohana.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/Svea8SS64TI/AAAAAAAAAH8/rgUb2suoeqk/s1600-h/kohana.png)
 
 Kohana es un framework PHP derivado de CodeIgniter. Los desarrolladores de Kohana decidieron que participara más la comunidad, que se adoptara PHP5, y que hubiera un ORM para acceder a la base de datos, entre otras mejoras que venían reclamándose hacía tiempo en los foros de CodeIgniter.  
   

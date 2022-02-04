@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/TOX910qHpkI/AAAAAAAABOg/vfsS5u2gJfU/s200/Volunteer_Helping_Hands1.jpg)](http://1.bp.blogspot.com/_K2xwnQ4Llso/TOX910qHpkI/AAAAAAAABOg/vfsS5u2gJfU/s1600/Volunteer_Helping_Hands1.jpg)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/TOX910qHpkI/AAAAAAAABOg/vfsS5u2gJfU/s200/Volunteer_Helping_Hands1.jpg)](https://1.bp.blogspot.com/_K2xwnQ4Llso/TOX910qHpkI/AAAAAAAABOg/vfsS5u2gJfU/s1600/Volunteer_Helping_Hands1.jpg)
 
 Cuando alguien se entera que hay en el mundo del software gente que contribuye voluntariamente diseñando, programando y probando programas que se distribuyen líbremente, a menudo se oye la pregunta ¿y que ganan ellos haciendo eso?  
   

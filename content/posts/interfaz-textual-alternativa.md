@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-Z1FBw_68m-E/T0ukf0EAsvI/AAAAAAAABwQ/RaLaZRPmi7s/s200/idea_fun.jpg)](http://4.bp.blogspot.com/-Z1FBw_68m-E/T0ukf0EAsvI/AAAAAAAABwQ/RaLaZRPmi7s/s1600/idea_fun.jpg)
+[![](https://4.bp.blogspot.com/-Z1FBw_68m-E/T0ukf0EAsvI/AAAAAAAABwQ/RaLaZRPmi7s/s200/idea_fun.jpg)](https://4.bp.blogspot.com/-Z1FBw_68m-E/T0ukf0EAsvI/AAAAAAAABwQ/RaLaZRPmi7s/s1600/idea_fun.jpg)
 
 Una de las formas más rápidas de ingresar información es usando un editor de texto. Puede ser una expresión constante, es decir el propio texto que se requiere, o también una expresión variable, es decir un texto que genera el texto que se requiere (algo así como un programa).  
   

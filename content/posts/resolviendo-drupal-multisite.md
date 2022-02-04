@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S5npftXwF6I/AAAAAAAAAZ4/jCw57lVO100/s320/drupal_multisite.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S5npftXwF6I/AAAAAAAAAZ4/jCw57lVO100/s1600-h/drupal_multisite.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S5npftXwF6I/AAAAAAAAAZ4/jCw57lVO100/s320/drupal_multisite.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S5npftXwF6I/AAAAAAAAAZ4/jCw57lVO100/s1600-h/drupal_multisite.png)
 
 Aunque la instalación y configuración inicial de Drupal es relativamente sencilla y directa, configurarlo para que varios sites compartan el mismo motor fue, para mí, casi un dolor de cabeza.  
   
@@ -60,7 +60,7 @@ mklink /J drupal\_202 drupal\_101
   
 Eso crea un enlace simbólico (una especie de directorio ficticio) que permite apuntar al directorio drupal\_101 con un nombre nuevo adicional drupal\_202.  
   
-_mklink está disponible en Windows 7 y WIndows Vista. Para Windows XP puede usar el comando **Junction** (puede ver más información sobre esto en el post [Enlaces simbólicos en Windows](http://akcdev.blogspot.com/2010/03/enlaces-simbolicos-en-windows.html)). En Linux usaría un comando similar a **ln -s drupal\_101 drupal\_202** (allí primero se indica el destino y luego el link)._  
+_mklink está disponible en Windows 7 y WIndows Vista. Para Windows XP puede usar el comando **Junction** (puede ver más información sobre esto en el post [Enlaces simbólicos en Windows](https://akcdev.blogspot.com/2010/03/enlaces-simbolicos-en-windows.html)). En Linux usaría un comando similar a **ln -s drupal\_101 drupal\_202** (allí primero se indica el destino y luego el link)._  
   
 Hecho esto, al entrar a http://localhost/test/drupal\_202/ uno esperaría ver lo mismo que si se entrara a http://localhost/test/drupal\_101/. Después de todo se trata del mismo directorio, aunque tenga dos etiquetas. Pero, como Drupal usa el url como parámetro para determinar el lugar dónde debe estar el archivo settings.php, encontrará uno diferente en sites/localhost.test.drupal\_202/ y así veremos un site también diferente.  
   

@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/S5bBrGnKZHI/AAAAAAAAAYw/p-vPTk2WdZY/s320/Onions.jpg)](http://3.bp.blogspot.com/_K2xwnQ4Llso/S5bBrGnKZHI/AAAAAAAAAYw/p-vPTk2WdZY/s1600-h/Onions.jpg)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/S5bBrGnKZHI/AAAAAAAAAYw/p-vPTk2WdZY/s320/Onions.jpg)](https://3.bp.blogspot.com/_K2xwnQ4Llso/S5bBrGnKZHI/AAAAAAAAAYw/p-vPTk2WdZY/s1600-h/Onions.jpg)
 
 Me parece que hay un paralelo en lo que pasa entre un desarrollador y el jefe del proyecto, respecto a su trabajo, con lo que pasa entre un cliente y el desarrollador, respecto a su producto.  
   

@@ -48,6 +48,6 @@ También es un _quizás_. Pero es es un _quizás_ con algo corriendo.
 
 * * *
 
-_Imagen de http://news.nationalgeographic.com/content/dam/news/2017/04/27/frog-gallery/01-frog-day-gallery.jpg_
+_Imagen de https://news.nationalgeographic.com/content/dam/news/2017/04/27/frog-gallery/01-frog-day-gallery.jpg_
 
 _*Url archivado: [La solución imperfecta](https://akcdev.blogspot.com/2017/10/la-solucion-imperfecta.html)*_

@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-NqE0lUJ297c/TdGK4CKh9CI/AAAAAAAABVY/8YSeBFMBH2E/s200/free-web-host.jpg)](http://4.bp.blogspot.com/-NqE0lUJ297c/TdGK4CKh9CI/AAAAAAAABVY/8YSeBFMBH2E/s1600/free-web-host.jpg)
+[![](https://4.bp.blogspot.com/-NqE0lUJ297c/TdGK4CKh9CI/AAAAAAAABVY/8YSeBFMBH2E/s200/free-web-host.jpg)](https://4.bp.blogspot.com/-NqE0lUJ297c/TdGK4CKh9CI/AAAAAAAABVY/8YSeBFMBH2E/s1600/free-web-host.jpg)
 
 Lea el artículo original en [Programando Web](http://uphp.blogspot.com/2011/05/programando-web.html).
 

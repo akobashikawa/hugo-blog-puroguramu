@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-CkYp1y9wqIc/TfQ5MBfR_II/AAAAAAAABWU/wtcG_7xm2rA/s200/nokia-3220b.jpg)](http://1.bp.blogspot.com/-CkYp1y9wqIc/TfQ5MBfR_II/AAAAAAAABWU/wtcG_7xm2rA/s1600/nokia-3220b.jpg)
+[![](https://1.bp.blogspot.com/-CkYp1y9wqIc/TfQ5MBfR_II/AAAAAAAABWU/wtcG_7xm2rA/s200/nokia-3220b.jpg)](https://1.bp.blogspot.com/-CkYp1y9wqIc/TfQ5MBfR_II/AAAAAAAABWU/wtcG_7xm2rA/s1600/nokia-3220b.jpg)
 
 El Nokia 3220 es un teléfono celular que vengo usando varios años. Ahora, quizás se puede considerar un modelo antiguo, pero puede tomar fotos de 640x480 px que se ven bien.  
   

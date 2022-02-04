@@ -10,14 +10,14 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TDepqPckZoI/AAAAAAAABJQ/-vgohjV6SS4/s320/center_in_page.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TDepqPckZoI/AAAAAAAABJQ/-vgohjV6SS4/s1600/center_in_page.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TDepqPckZoI/AAAAAAAABJQ/-vgohjV6SS4/s320/center_in_page.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TDepqPckZoI/AAAAAAAABJQ/-vgohjV6SS4/s1600/center_in_page.png)
 
 Centrar un bloque tanto horizontal como verticalmente es algo que se requiere a veces. Lo ideal es que el centrado se acomode automáticamente cuando la ventana del navegador se redimensiona. La solución podría ser más fácil, pero la familia IE, dificulta un poco el problema.  
   
 
 _Nota_
 
-_**Estas soluciones funcionan en la mayoría de navegadores, incluso en IE6, pero recientemente encontré que no es así en Safari. Puede encontrar un método alternativo, que funciona en todos los navegadores, en el artículo **[Cómo centrar un bloque en una página 2](http://akcdev.blogspot.com/2011/02/como-centrar-un-bloque-en-una-pagina-2.html)._
+_**Estas soluciones funcionan en la mayoría de navegadores, incluso en IE6, pero recientemente encontré que no es así en Safari. Puede encontrar un método alternativo, que funciona en todos los navegadores, en el artículo **[Cómo centrar un bloque en una página 2](https://akcdev.blogspot.com/2011/02/como-centrar-un-bloque-en-una-pagina-2.html)._
 
 Soluciones  
 

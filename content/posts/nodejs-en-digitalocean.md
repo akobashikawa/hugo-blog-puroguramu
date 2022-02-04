@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-8AkhLuEUlyo/VlsdFFC-kEI/AAAAAAAADyI/q5eZqfdJ8wI/s320/nodejs.png)](http://3.bp.blogspot.com/-8AkhLuEUlyo/VlsdFFC-kEI/AAAAAAAADyI/q5eZqfdJ8wI/s1600/nodejs.png)
+[![](https://3.bp.blogspot.com/-8AkhLuEUlyo/VlsdFFC-kEI/AAAAAAAADyI/q5eZqfdJ8wI/s320/nodejs.png)](https://3.bp.blogspot.com/-8AkhLuEUlyo/VlsdFFC-kEI/AAAAAAAADyI/q5eZqfdJ8wI/s1600/nodejs.png)
 
   
 Vengo aprendiendo NodeJS desde hace unos meses.  
@@ -23,7 +23,7 @@ Recientemente, tuve la necesidad de deployar una de esas aplicaciones en un host
 DigitalOcean
 ------------
 
-[![](http://2.bp.blogspot.com/-VCHjD8mxrh0/VlsdKVSC2fI/AAAAAAAADyQ/bxP0va6uXtE/s320/DO_Logo_Vertical_Blue-75e0d68b.png)](https://www.digitalocean.com/)
+[![](https://2.bp.blogspot.com/-VCHjD8mxrh0/VlsdKVSC2fI/AAAAAAAADyQ/bxP0va6uXtE/s320/DO_Logo_Vertical_Blue-75e0d68b.png)](https://www.digitalocean.com/)
 
   
 

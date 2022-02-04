@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-07Ql9iT2_HE/UXqrtGc4-kI/AAAAAAAACEc/MGlDIE6EitM/s320/laberinto-de-libros-4.jpg)](http://3.bp.blogspot.com/-07Ql9iT2_HE/UXqrtGc4-kI/AAAAAAAACEc/MGlDIE6EitM/s1600/laberinto-de-libros-4.jpg)
+[![](https://3.bp.blogspot.com/-07Ql9iT2_HE/UXqrtGc4-kI/AAAAAAAACEc/MGlDIE6EitM/s320/laberinto-de-libros-4.jpg)](https://3.bp.blogspot.com/-07Ql9iT2_HE/UXqrtGc4-kI/AAAAAAAACEc/MGlDIE6EitM/s1600/laberinto-de-libros-4.jpg)
 
 **DRM**_ (Digital Rights Management) _es una clase de tecnologías usadas para controlar la copia de contenido digital después de la venta.  
   

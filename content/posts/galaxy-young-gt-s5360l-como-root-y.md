@@ -7,7 +7,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-q5ek99cIfuw/T3XxCjiU7-I/AAAAAAAABy8/VFXPmDjUg4U/s1600/android.png)](http://3.bp.blogspot.com/-q5ek99cIfuw/T3XxCjiU7-I/AAAAAAAABy8/VFXPmDjUg4U/s1600/android.png)
+[![](https://3.bp.blogspot.com/-q5ek99cIfuw/T3XxCjiU7-I/AAAAAAAABy8/VFXPmDjUg4U/s1600/android.png)](https://3.bp.blogspot.com/-q5ek99cIfuw/T3XxCjiU7-I/AAAAAAAABy8/VFXPmDjUg4U/s1600/android.png)
 
 Usando el celular **Galaxy Young (GT S5360L)**, es posible **rootearlo** (usarlo como root o superusuario) siguiendo procedimientos como:  
 

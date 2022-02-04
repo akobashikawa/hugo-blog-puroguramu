@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/S6pPwRpXNlI/AAAAAAAAAag/0X3QlNcKpdk/s320/gmail_settings_accounts.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/S6pPwRpXNlI/AAAAAAAAAag/0X3QlNcKpdk/s1600/gmail_settings_accounts.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/S6pPwRpXNlI/AAAAAAAAAag/0X3QlNcKpdk/s320/gmail_settings_accounts.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/S6pPwRpXNlI/AAAAAAAAAag/0X3QlNcKpdk/s1600/gmail_settings_accounts.png)
 
 Gmail permite descargar el correo de otras cuentas (actualmente hasta un máximo de 5 cuentas), que tengan el servicio POP3 habilitado.  
   
@@ -19,7 +19,7 @@ Lo mismo se puede hacer para una cuenta Hotmail.
   
 Para que los correos de Yahoo Mail también puedan llegar, hay que habilitarle el servicio POP3.  
   
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/S6paJOHCqSI/AAAAAAAAAao/hzksVhufElg/s200/gmail-logo1.png)](http://3.bp.blogspot.com/_K2xwnQ4Llso/S6paJOHCqSI/AAAAAAAAAao/hzksVhufElg/s1600/gmail-logo1.png)**Gmail leyendo Gmail**  
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/S6paJOHCqSI/AAAAAAAAAao/hzksVhufElg/s200/gmail-logo1.png)](https://3.bp.blogspot.com/_K2xwnQ4Llso/S6paJOHCqSI/AAAAAAAAAao/hzksVhufElg/s1600/gmail-logo1.png)**Gmail leyendo Gmail**  
   
 Normalmente, cada cuenta Gmail tiene habilitado el servicio POP3.  
   
@@ -29,11 +29,11 @@ Para verificar que tiene la propiedad de la cuenta que quiere asociar, Gmail le 
   
 Entre las opciones de una cuenta asociada, si gusta puede marcar la automáticamente aplica una etiqueta a los mensajes de esta cuenta para que pueda  distinguirlos fácilmente de los demás.  
   
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/S6paOqimM6I/AAAAAAAAAaw/Skiz6MGZuh8/s200/final_hotmail_logo1.jpg)](http://1.bp.blogspot.com/_K2xwnQ4Llso/S6paOqimM6I/AAAAAAAAAaw/Skiz6MGZuh8/s1600/final_hotmail_logo1.jpg)**Gmail leyendo Hotmail**  
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/S6paOqimM6I/AAAAAAAAAaw/Skiz6MGZuh8/s200/final_hotmail_logo1.jpg)](https://1.bp.blogspot.com/_K2xwnQ4Llso/S6paOqimM6I/AAAAAAAAAaw/Skiz6MGZuh8/s1600/final_hotmail_logo1.jpg)**Gmail leyendo Hotmail**  
 Puede asociar de modo similar una cuenta Hotmail.  
   
 **Gmail leyendo Yahoo Mail**  
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S6paTFtJ-lI/AAAAAAAAAa4/UNE9Nz06TIE/s200/logo_yahoomail.gif)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S6paTFtJ-lI/AAAAAAAAAa4/UNE9Nz06TIE/s1600/logo_yahoomail.gif)Si tienen una cuenta en Latinoamérica, tal vez habrá notado que desde hace algunos años el servicio POP3 está deshabilitado, a menos que adquiera Yahoo Mail Plus, que es un servicio pagado. Sin embargo, por alguna razón, las cuentas de Asia sí tienen el servicio POP3 habilitado en las cuentas gratuitas. Afortunadamente, es posible hacer el cambio.  
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S6paTFtJ-lI/AAAAAAAAAa4/UNE9Nz06TIE/s200/logo_yahoomail.gif)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S6paTFtJ-lI/AAAAAAAAAa4/UNE9Nz06TIE/s1600/logo_yahoomail.gif)Si tienen una cuenta en Latinoamérica, tal vez habrá notado que desde hace algunos años el servicio POP3 está deshabilitado, a menos que adquiera Yahoo Mail Plus, que es un servicio pagado. Sin embargo, por alguna razón, las cuentas de Asia sí tienen el servicio POP3 habilitado en las cuentas gratuitas. Afortunadamente, es posible hacer el cambio.  
   
 Ingresando a su cuenta Yahoo Mail, puede entrar los datos de su cuenta. Puede ser que le tome un tiempo encontrar el enlace adecuado, pero es uno de los que aparece en la parte de arriba. Tal vez como un desplegable bajo su nombre de usuario (Edit My Account, Editar mi cuenta), o como un enlace simple (My Account, Mi cuenta).  
   

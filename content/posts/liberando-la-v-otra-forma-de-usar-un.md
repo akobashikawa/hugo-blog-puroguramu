@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)](http://4.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)
+[![](https://4.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)](https://4.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)
 
 En el esquema MVC, se tienen _modelos_ que proveen datos, y _controladores_ que toman los datos y los procesan de algún modo antes de enviar el resultado a la _vista_.  
   

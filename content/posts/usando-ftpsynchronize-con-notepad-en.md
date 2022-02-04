@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/_K2xwnQ4Llso/S0tWV8obHrI/AAAAAAAAALA/d-qD4EHfJKc/s200/notepad_plus.png)](http://4.bp.blogspot.com/_K2xwnQ4Llso/S0tWV8obHrI/AAAAAAAAALA/d-qD4EHfJKc/s1600-h/notepad_plus.png)
+[![](https://4.bp.blogspot.com/_K2xwnQ4Llso/S0tWV8obHrI/AAAAAAAAALA/d-qD4EHfJKc/s200/notepad_plus.png)](https://4.bp.blogspot.com/_K2xwnQ4Llso/S0tWV8obHrI/AAAAAAAAALA/d-qD4EHfJKc/s1600-h/notepad_plus.png)
 
 Notepad++ es un editor de texto muy util para programar. Lo uso bastante para HTML, CSS, javascript, php, etc. Su menú encoding permite ver y cambiar de manera muy fácil el encoding de un archivo; por ejemplo, es sencillo pasar ANSI a Unicode UTF-8, con BOM o sin BOM, y viceversa (para una nota sobre lo que es ANSI, puede ver [ASCII, ANSI, Roman 1, and What's All That?](http://flex.sys-con.com/node/45949))  
   

@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TAV3-Lpy3DI/AAAAAAAABHw/Q3yFy4RCD20/s320/flash_html_popup.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TAV3-Lpy3DI/AAAAAAAABHw/Q3yFy4RCD20/s1600/flash_html_popup.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TAV3-Lpy3DI/AAAAAAAABHw/Q3yFy4RCD20/s320/flash_html_popup.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TAV3-Lpy3DI/AAAAAAAABHw/Q3yFy4RCD20/s1600/flash_html_popup.png)
 
 **Problema**:  
 Hay un objeto flash que debe funcionar como un botón que abra una ventana html flotante.  

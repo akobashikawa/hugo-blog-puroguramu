@@ -13,7 +13,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/_K2xwnQ4Llso/S0ghnxwaryI/AAAAAAAAAKw/3SN8TBBO_aA/s320/kohana_logo.png)](http://4.bp.blogspot.com/_K2xwnQ4Llso/S0ghnxwaryI/AAAAAAAAAKw/3SN8TBBO_aA/s1600-h/kohana_logo.png)  
+[![](https://4.bp.blogspot.com/_K2xwnQ4Llso/S0ghnxwaryI/AAAAAAAAAKw/3SN8TBBO_aA/s320/kohana_logo.png)](https://4.bp.blogspot.com/_K2xwnQ4Llso/S0ghnxwaryI/AAAAAAAAAKw/3SN8TBBO_aA/s1600-h/kohana_logo.png)  
 
 Aprendiendo Kohana estoy desarrollando el tutorial [Kohana101](http://dev.kohanaphp.com/projects/kohana2/wiki/Kohana101), publicado por Oscar Bajner.  
   

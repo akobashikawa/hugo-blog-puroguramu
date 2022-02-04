@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TGTy_vxpRYI/AAAAAAAABLM/5F-_bU1lVyo/s320/bola8.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TGTy_vxpRYI/AAAAAAAABLM/5F-_bU1lVyo/s1600/bola8.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TGTy_vxpRYI/AAAAAAAABLM/5F-_bU1lVyo/s320/bola8.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TGTy_vxpRYI/AAAAAAAABLM/5F-_bU1lVyo/s1600/bola8.png)
 
 El patrón base de la técnica que describo es usar un elemento posicionado absolutamente dentro de otro posicionado relativamente o absolutamente.  
   

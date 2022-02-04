@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)](http://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)
+[![](https://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)](https://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)
 
 En Linux, para copiar un directorio completo, se puede usar algo como:  
   

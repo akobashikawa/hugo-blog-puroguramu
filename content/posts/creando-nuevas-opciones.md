@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-0zCGlTqGlbc/Tu94T3k0PwI/AAAAAAAABqs/uo0oNiyIilA/s200/raton_laberinto.jpg)](http://1.bp.blogspot.com/-0zCGlTqGlbc/Tu94T3k0PwI/AAAAAAAABqs/uo0oNiyIilA/s1600/raton_laberinto.jpg)
+[![](https://1.bp.blogspot.com/-0zCGlTqGlbc/Tu94T3k0PwI/AAAAAAAABqs/uo0oNiyIilA/s200/raton_laberinto.jpg)](https://1.bp.blogspot.com/-0zCGlTqGlbc/Tu94T3k0PwI/AAAAAAAABqs/uo0oNiyIilA/s1600/raton_laberinto.jpg)
 
 Caminando por una tienda, encontré un juguete con forma de notebook.  
   

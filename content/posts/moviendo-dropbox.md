@@ -21,7 +21,7 @@ Como uso Linux al lado de **Windows**, y el disco de Windows es visible desde Li
 Pero alli el directorio es "My Dropbox". Pensé que podría usarlo pero no, dropbox insiste en que el directorio se llame "Dropbox". Entonces, entré a Windows, fui a la configuración de dropbox e indiqué mover el directorio a una nueva ubicación. En micaso, elegí el directorio **C:\\Users\\compaq**, de modo que el nuevo directorio de dropbox es **C:\\Users\\compaq\\Dropbox**.  
   
 
-[![](http://2.bp.blogspot.com/-7rTQZnYcOJw/Tekurx-VnWI/AAAAAAAABVo/9N5LE_66vps/s320/dropbox-move.png)](http://2.bp.blogspot.com/-7rTQZnYcOJw/Tekurx-VnWI/AAAAAAAABVo/9N5LE_66vps/s1600/dropbox-move.png)
+[![](https://2.bp.blogspot.com/-7rTQZnYcOJw/Tekurx-VnWI/AAAAAAAABVo/9N5LE_66vps/s320/dropbox-move.png)](https://2.bp.blogspot.com/-7rTQZnYcOJw/Tekurx-VnWI/AAAAAAAABVo/9N5LE_66vps/s1600/dropbox-move.png)
 
   
 

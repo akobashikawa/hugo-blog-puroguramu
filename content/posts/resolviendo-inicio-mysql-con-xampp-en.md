@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)](http://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)
+[![](https://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)](https://4.bp.blogspot.com/-KmhYf9ZalO4/TUwhyQVJXyI/AAAAAAAABQ8/GpJ-i1hu6wo/s1600/tux-100.png)
 
 Instalé **Lampp** (_Xampp para Linux_, xampp-linux-1.7.4.tar.gz) en **Ubuntu** (_Natty Narwhal_).  
   

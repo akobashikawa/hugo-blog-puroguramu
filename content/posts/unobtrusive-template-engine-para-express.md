@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)](http://1.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)
+[![](https://1.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)](https://1.bp.blogspot.com/-UcP01Kq0lfI/TiSIJ7jmV1I/AAAAAAAABXk/ACnSY0H_zz8/s1600/free-v.png)
 
   
 El uso de los sistemas de templates típicos (como jade, handlebars, jinja, etc), involucra aprender el lenguaje del sistema de templates y procesar el html base para que se acomode a los requerimientos del sistema de template.

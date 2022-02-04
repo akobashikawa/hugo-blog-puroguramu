@@ -12,7 +12,7 @@ tags:
 Dropbox + Dokuwiki
 ------------------
 
-[![](http://1.bp.blogspot.com/-HzLKuQcM4o8/US6Y83HobSI/AAAAAAAACCI/YdEHTY6mV4o/s1600/dropbox-dokuwiki.jpg)](http://1.bp.blogspot.com/-HzLKuQcM4o8/US6Y83HobSI/AAAAAAAACCI/YdEHTY6mV4o/s1600/dropbox-dokuwiki.jpg)
+[![](https://1.bp.blogspot.com/-HzLKuQcM4o8/US6Y83HobSI/AAAAAAAACCI/YdEHTY6mV4o/s1600/dropbox-dokuwiki.jpg)](https://1.bp.blogspot.com/-HzLKuQcM4o8/US6Y83HobSI/AAAAAAAACCI/YdEHTY6mV4o/s1600/dropbox-dokuwiki.jpg)
 
 Se dice que quienes no recuerdan el pasado están condenados a repetirlo. Por eso es bastante útil conocer algo de historia. Por eso también es útil llevar un diario personal o, en la vida profesional, algún tipo de bitácora.
 

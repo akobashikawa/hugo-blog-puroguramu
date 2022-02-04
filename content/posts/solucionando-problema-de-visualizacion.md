@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/TPVnMNKjYoI/AAAAAAAABOs/1Cnp4Mt5ixc/s1600/ps_cs5_startup_logo.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/TPVnMNKjYoI/AAAAAAAABOs/1Cnp4Mt5ixc/s1600/ps_cs5_startup_logo.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/TPVnMNKjYoI/AAAAAAAABOs/1Cnp4Mt5ixc/s1600/ps_cs5_startup_logo.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/TPVnMNKjYoI/AAAAAAAABOs/1Cnp4Mt5ixc/s1600/ps_cs5_startup_logo.png)
 
 Usando Photoshop CS5 (instalado en Windows 7 con 2 GB de RAM, tarjeta Nvidia Geforce), encontré que al usar CTRL+0 (para hacer que encajara el lienzo en la pantalla) a veces desaparecían los elementos de la imagen.  
   

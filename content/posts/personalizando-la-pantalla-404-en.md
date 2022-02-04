@@ -13,7 +13,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/TGWtYyRGDTI/AAAAAAAABLU/YNdIoSOmytk/s320/custom_404.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/TGWtYyRGDTI/AAAAAAAABLU/YNdIoSOmytk/s1600/custom_404.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/TGWtYyRGDTI/AAAAAAAABLU/YNdIoSOmytk/s320/custom_404.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/TGWtYyRGDTI/AAAAAAAABLU/YNdIoSOmytk/s1600/custom_404.png)
 
 Cuando se intenta acceder a una dirección que no se reconoce en el site, el webserver responde con una página de Error 404: Document Not Found.  
   

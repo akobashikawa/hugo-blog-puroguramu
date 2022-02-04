@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/TUwhyQVJXyI/AAAAAAAABQ8/7Vr3QRUEWG8/s1600/tux-100.png)](http://3.bp.blogspot.com/_K2xwnQ4Llso/TUwhyQVJXyI/AAAAAAAABQ8/7Vr3QRUEWG8/s1600/tux-100.png)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/TUwhyQVJXyI/AAAAAAAABQ8/7Vr3QRUEWG8/s1600/tux-100.png)](https://3.bp.blogspot.com/_K2xwnQ4Llso/TUwhyQVJXyI/AAAAAAAABQ8/7Vr3QRUEWG8/s1600/tux-100.png)
 
 Hay varias formas. La primera me parece la más elegante (cuenta el que la compartió que la descubrió recien a los tres años de usar Linux):  
   

@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/TPVPigkfQ2I/AAAAAAAABOo/gEH24HFUdLY/s1600/split.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/TPVPigkfQ2I/AAAAAAAABOo/gEH24HFUdLY/s1600/split.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/TPVPigkfQ2I/AAAAAAAABOo/gEH24HFUdLY/s1600/split.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/TPVPigkfQ2I/AAAAAAAABOo/gEH24HFUdLY/s1600/split.png)
 
   
 Una ruta como http://par1/par2/par3/par4/par5 se puede separar en php usando algo como [explode()](http://www.php.net/manual/es/function.explode.php).  

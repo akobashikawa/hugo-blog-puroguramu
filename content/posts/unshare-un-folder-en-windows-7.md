@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s200/windows7_01.jpg)](http://4.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s1600-h/windows7_01.jpg)
+[![](https://4.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s200/windows7_01.jpg)](https://4.bp.blogspot.com/_K2xwnQ4Llso/S5ao77NwGDI/AAAAAAAAAYo/O3iLMZ_jSRw/s1600-h/windows7_01.jpg)
 
 En Windows 7, se puede compartir un folder, o directorio, haciéndole clic derecho para entrar a Properties (Propiedades), Sharing (Compartiendo), Share... (Compartir...), luego indicando con quiénes desea hacer el sharing.  
   

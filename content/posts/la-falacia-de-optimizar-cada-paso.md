@@ -36,14 +36,14 @@ Alguien criado de ese modo, que haya crecido de esa forma, y que viva aún así,
 No puedes estar en medio de la nube y contemplar la forma de la nube al mismo tiempo. No puedes estar adentro y afuera a la vez. Es como tratar de servir a dos amos distintos al mismo tiempo.  
   
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/S9pm6YHj0PI/AAAAAAAABGc/n5krwaQQfXY/s200/2005-07-29_044551_sa1.jpg)](http://1.bp.blogspot.com/_K2xwnQ4Llso/S9pm6YHj0PI/AAAAAAAABGc/n5krwaQQfXY/s1600/2005-07-29_044551_sa1.jpg)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/S9pm6YHj0PI/AAAAAAAABGc/n5krwaQQfXY/s200/2005-07-29_044551_sa1.jpg)](https://1.bp.blogspot.com/_K2xwnQ4Llso/S9pm6YHj0PI/AAAAAAAABGc/n5krwaQQfXY/s1600/2005-07-29_044551_sa1.jpg)
 
 Para que sea posible esmerarse en la correcta ejecución de un paso mientras se contempla el panorama, se requiere de dos conciencias. Como cuando un bailarín contempla a su amada sin pensar en los pasos de baile. La parte subconciente se encarga de mover los pies y del ritmo, mientras la parte consciente lo disfruta.  
   
 Para dibujar, pintar, o esculpir mejor, la conciencia debe estar elevada, para sentir aquello que se quiere representar, mientras las manos y los sentidos entrenados se ocupan de los detalles.  
   
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S9pnDVqIFcI/AAAAAAAABGk/-rYRyKUb6Ug/s200/3084394163_6cc007d7c4.jpg)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S9pnDVqIFcI/AAAAAAAABGk/-rYRyKUb6Ug/s1600/3084394163_6cc007d7c4.jpg)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S9pnDVqIFcI/AAAAAAAABGk/-rYRyKUb6Ug/s200/3084394163_6cc007d7c4.jpg)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S9pnDVqIFcI/AAAAAAAABGk/-rYRyKUb6Ug/s1600/3084394163_6cc007d7c4.jpg)
 
 Para ir bien por una ruta, hay que visualizarla, sentirla, mientras nuestros pasos la recorren.  
   

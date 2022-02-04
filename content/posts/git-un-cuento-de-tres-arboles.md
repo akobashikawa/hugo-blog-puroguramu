@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-a7cNsbirwBg/T2y7Uc63f_I/AAAAAAAAByI/eiWBgq8ucVI/s1600/git-logo.png)](http://1.bp.blogspot.com/-a7cNsbirwBg/T2y7Uc63f_I/AAAAAAAAByI/eiWBgq8ucVI/s1600/git-logo.png)
+[![](https://1.bp.blogspot.com/-a7cNsbirwBg/T2y7Uc63f_I/AAAAAAAAByI/eiWBgq8ucVI/s1600/git-logo.png)](https://1.bp.blogspot.com/-a7cNsbirwBg/T2y7Uc63f_I/AAAAAAAAByI/eiWBgq8ucVI/s1600/git-logo.png)
 
 Hoy vi una presentación muy iluminadora sobre git, Un Cuento de Tres árboles, por Scott Chacon:  
   

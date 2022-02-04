@@ -12,7 +12,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-ioXM9g4eFMA/UGC-mwcEBfI/AAAAAAAAB-c/LOhfFiqtrqg/s200/touch-icon.png)](http://1.bp.blogspot.com/-ioXM9g4eFMA/UGC-mwcEBfI/AAAAAAAAB-c/LOhfFiqtrqg/s1600/touch-icon.png)
+[![](https://1.bp.blogspot.com/-ioXM9g4eFMA/UGC-mwcEBfI/AAAAAAAAB-c/LOhfFiqtrqg/s200/touch-icon.png)](https://1.bp.blogspot.com/-ioXM9g4eFMA/UGC-mwcEBfI/AAAAAAAAB-c/LOhfFiqtrqg/s1600/touch-icon.png)
 
 Es posible usar el plugin [jquery.event.drag](http://threedubmedia.com/code/event/drag/) para proveer soporte para drag a **[Flexslider](http://flexslider.woothemes.com/)** (es decir que permita arrastrar los sliders con el ratón en el desktop, de modo similar a como permite hacerlo en un dispositivo tipo touch):  
   

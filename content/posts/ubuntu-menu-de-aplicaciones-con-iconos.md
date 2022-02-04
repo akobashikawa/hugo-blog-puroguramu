@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-LD1XnA0zJ6g/TfuCYDUCc8I/AAAAAAAABWY/08Y2rlw1drY/s200/application_menu_icons.png)](http://3.bp.blogspot.com/-LD1XnA0zJ6g/TfuCYDUCc8I/AAAAAAAABWY/08Y2rlw1drY/s1600/application_menu_icons.png)
+[![](https://3.bp.blogspot.com/-LD1XnA0zJ6g/TfuCYDUCc8I/AAAAAAAABWY/08Y2rlw1drY/s200/application_menu_icons.png)](https://3.bp.blogspot.com/-LD1XnA0zJ6g/TfuCYDUCc8I/AAAAAAAABWY/08Y2rlw1drY/s1600/application_menu_icons.png)
 
 En **Ubuntu Natty Narwhal**, no me agrada mucho que **Unity**, el nuevo sistema de escritorio de Ubuntu, requiera que uno descienda varios niveles para encontrar el menú de aplicaciones (_Ubuntu logo, More Apps, All Applications_).  
   

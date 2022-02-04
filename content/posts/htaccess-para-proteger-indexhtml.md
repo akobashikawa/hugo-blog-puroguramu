@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-mnivdaPjRtA/TbhUfnjv1hI/AAAAAAAABU4/VJK3xW-jwBg/s1600/Lock+file+Icon.jpg)](http://4.bp.blogspot.com/-mnivdaPjRtA/TbhUfnjv1hI/AAAAAAAABU4/VJK3xW-jwBg/s1600/Lock+file+Icon.jpg)
+[![](https://4.bp.blogspot.com/-mnivdaPjRtA/TbhUfnjv1hI/AAAAAAAABU4/VJK3xW-jwBg/s1600/Lock+file+Icon.jpg)](https://4.bp.blogspot.com/-mnivdaPjRtA/TbhUfnjv1hI/AAAAAAAABU4/VJK3xW-jwBg/s1600/Lock+file+Icon.jpg)
 
 Se puede usar .htaccess para proteger el acceso a un determinado archivo en un directorio. En este caso, se desea proteger el acceso a http://example.com/protegido/  
   

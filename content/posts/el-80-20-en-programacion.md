@@ -13,7 +13,7 @@ Esta la observación de que el 80% de los problemas se debe a un 20% de las caus
 
   
 
-[![](http://3.bp.blogspot.com/-bGoe-Hgn_1M/U2c4PNj0ZqI/AAAAAAAACb4/xAsk53ipWNs/s1600/farol-calle+en+la+noche.jpg)](http://3.bp.blogspot.com/-bGoe-Hgn_1M/U2c4PNj0ZqI/AAAAAAAACb4/xAsk53ipWNs/s1600/farol-calle+en+la+noche.jpg)Lo hacemos. Y hasta nos sentimos orgullosos por el esfuerzo.... pero estamos apuntando al porcentaje equivocado.
+[![](https://3.bp.blogspot.com/-bGoe-Hgn_1M/U2c4PNj0ZqI/AAAAAAAACb4/xAsk53ipWNs/s1600/farol-calle+en+la+noche.jpg)](https://3.bp.blogspot.com/-bGoe-Hgn_1M/U2c4PNj0ZqI/AAAAAAAACb4/xAsk53ipWNs/s1600/farol-calle+en+la+noche.jpg)Lo hacemos. Y hasta nos sentimos orgullosos por el esfuerzo.... pero estamos apuntando al porcentaje equivocado.
 
   
 

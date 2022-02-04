@@ -11,7 +11,7 @@ tags:
 - blogger
 ---
 
-[![](http://3.bp.blogspot.com/-jXJkfU0CJbg/VGA6VfaDq-I/AAAAAAAACjE/_kwZRpeLzQI/s1600/p0sixspwn-1-0-4-released-how-jailbreak-ios-6-1-3-6-1-4-6-1-5-untethered-iphone-ipad-ipod-touch.jpg)](http://3.bp.blogspot.com/-jXJkfU0CJbg/VGA6VfaDq-I/AAAAAAAACjE/_kwZRpeLzQI/s1600/p0sixspwn-1-0-4-released-how-jailbreak-ios-6-1-3-6-1-4-6-1-5-untethered-iphone-ipad-ipod-touch.jpg)
+[![](https://3.bp.blogspot.com/-jXJkfU0CJbg/VGA6VfaDq-I/AAAAAAAACjE/_kwZRpeLzQI/s1600/p0sixspwn-1-0-4-released-how-jailbreak-ios-6-1-3-6-1-4-6-1-5-untethered-iphone-ipad-ipod-touch.jpg)](https://3.bp.blogspot.com/-jXJkfU0CJbg/VGA6VfaDq-I/AAAAAAAACjE/_kwZRpeLzQI/s1600/p0sixspwn-1-0-4-released-how-jailbreak-ios-6-1-3-6-1-4-6-1-5-untethered-iphone-ipad-ipod-touch.jpg)
 
 Dispositivo iOS
 ---------------

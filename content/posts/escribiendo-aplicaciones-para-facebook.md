@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-LEoA6cgCUC4/T2C-FYMRfPI/AAAAAAAABxI/t_oCUVhz1Ek/s200/facebook.png)](http://4.bp.blogspot.com/-LEoA6cgCUC4/T2C-FYMRfPI/AAAAAAAABxI/t_oCUVhz1Ek/s1600/facebook.png)
+[![](https://4.bp.blogspot.com/-LEoA6cgCUC4/T2C-FYMRfPI/AAAAAAAABxI/t_oCUVhz1Ek/s200/facebook.png)](https://4.bp.blogspot.com/-LEoA6cgCUC4/T2C-FYMRfPI/AAAAAAAABxI/t_oCUVhz1Ek/s1600/facebook.png)
 
   
 Escribiendo aplicaciones para Facebook  

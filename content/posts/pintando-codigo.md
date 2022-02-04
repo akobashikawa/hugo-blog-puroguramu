@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://1.bp.blogspot.com/-tgBSd4IVTN4/T5DfIqGSx2I/AAAAAAAAB2Y/j81O1_4CQj8/s200/painting.jpg)](http://1.bp.blogspot.com/-tgBSd4IVTN4/T5DfIqGSx2I/AAAAAAAAB2Y/j81O1_4CQj8/s1600/painting.jpg)
+[![](https://1.bp.blogspot.com/-tgBSd4IVTN4/T5DfIqGSx2I/AAAAAAAAB2Y/j81O1_4CQj8/s200/painting.jpg)](https://1.bp.blogspot.com/-tgBSd4IVTN4/T5DfIqGSx2I/AAAAAAAAB2Y/j81O1_4CQj8/s1600/painting.jpg)
 
 Actualmente desarrollo una aplicación web que es un tablero de anuncios de trabajo. El lenguaje de programación es PHP. El framework, CodeIgniter.  
   

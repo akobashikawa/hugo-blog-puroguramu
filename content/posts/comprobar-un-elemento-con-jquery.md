@@ -8,7 +8,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)](http://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)
+[![](https://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)](https://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)
 
 Para comprobar si existe un elemento, es útil comprobar su propiedad length:  
   

@@ -15,7 +15,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/_K2xwnQ4Llso/S1CjewJ-MVI/AAAAAAAAAMg/nJ5WtSvKaNo/s320/20-xampp-logo-trio.jpg)](http://4.bp.blogspot.com/_K2xwnQ4Llso/S1CjewJ-MVI/AAAAAAAAAMg/nJ5WtSvKaNo/s1600-h/20-xampp-logo-trio.jpg)
+[![](https://4.bp.blogspot.com/_K2xwnQ4Llso/S1CjewJ-MVI/AAAAAAAAAMg/nJ5WtSvKaNo/s320/20-xampp-logo-trio.jpg)](https://4.bp.blogspot.com/_K2xwnQ4Llso/S1CjewJ-MVI/AAAAAAAAAMg/nJ5WtSvKaNo/s1600-h/20-xampp-logo-trio.jpg)
 
 XAMPP es un conveniente paquete que contiene Apache, PHP, MySQL y otros programas para facilitar la instalación y uso de un entorno de desarrollo PHP. Lo vengo usando satisfactoriamente desde hace varios meses. Sin embargo, me enfrasqué en un problema cuando necesité usar el Mercury que trae incluido para enviar emails. Aparentemente no funcionaba. Buscando y navegando mucho por internet, encontré estas páginas que me ayudaron a resolver el problema:  
 
@@ -28,7 +28,7 @@ Entonces, encontré el segundo enlace, donde un forista comentaba que los mensaj
 Resúmen de pasos  
   
 
-> [![](http://1.bp.blogspot.com/_K2xwnQ4Llso/S1CjoSHduyI/AAAAAAAAAMo/v-kiMviDEMM/s320/mercury-logo.jpg)](http://1.bp.blogspot.com/_K2xwnQ4Llso/S1CjoSHduyI/AAAAAAAAAMo/v-kiMviDEMM/s1600-h/mercury-logo.jpg)La idea del relay es usar un servidor SMTP externo, como el de GMail, para que Mercury envíe el correo a través de él. En teoría sería posible también usar un SMTP en localhost, pero como algunos proveedores no permiten que sus usuarios envíen correo de ese modo, el uso del relay parece más general.
+> [![](https://1.bp.blogspot.com/_K2xwnQ4Llso/S1CjoSHduyI/AAAAAAAAAMo/v-kiMviDEMM/s320/mercury-logo.jpg)](https://1.bp.blogspot.com/_K2xwnQ4Llso/S1CjoSHduyI/AAAAAAAAAMo/v-kiMviDEMM/s1600-h/mercury-logo.jpg)La idea del relay es usar un servidor SMTP externo, como el de GMail, para que Mercury envíe el correo a través de él. En teoría sería posible también usar un SMTP en localhost, pero como algunos proveedores no permiten que sus usuarios envíen correo de ese modo, el uso del relay parece más general.
 
 En el archivo xampp/php/php.ini, ubicar las líneas correspondientes a \[mail function\] y editarlas para que quede algo como:  
   
@@ -52,7 +52,7 @@ A continuación, configurar Mercury. En el administrador de Mercury (que se abre
 
   
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/S1Cc5Rih0dI/AAAAAAAAALo/XnyfNoMDLSk/s320/mercury_conf_03.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/S1Cc5Rih0dI/AAAAAAAAALo/XnyfNoMDLSk/s1600-h/mercury_conf_03.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/S1Cc5Rih0dI/AAAAAAAAALo/XnyfNoMDLSk/s320/mercury_conf_03.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/S1Cc5Rih0dI/AAAAAAAAALo/XnyfNoMDLSk/s1600-h/mercury_conf_03.png)
 
 Note que se han desahabilitado MercuryE y MercuryX, y se ha habilitado Mercury C.  
   
@@ -66,9 +66,9 @@ Luego de desactivar/activar módulos es necesario reiniciar Mercury (salir del a
 
   
 
-[![](http://3.bp.blogspot.com/_K2xwnQ4Llso/S1CdAEgwaYI/AAAAAAAAALw/yaYmjDYl-UE/s320/mercury_conf_01.png)](http://3.bp.blogspot.com/_K2xwnQ4Llso/S1CdAEgwaYI/AAAAAAAAALw/yaYmjDYl-UE/s1600-h/mercury_conf_01.png)
+[![](https://3.bp.blogspot.com/_K2xwnQ4Llso/S1CdAEgwaYI/AAAAAAAAALw/yaYmjDYl-UE/s320/mercury_conf_01.png)](https://3.bp.blogspot.com/_K2xwnQ4Llso/S1CdAEgwaYI/AAAAAAAAALw/yaYmjDYl-UE/s1600-h/mercury_conf_01.png)
 
- [![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdFUOKADI/AAAAAAAAAL4/1ndhK1WXB64/s320/mercury_conf_02.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdFUOKADI/AAAAAAAAAL4/1ndhK1WXB64/s1600-h/mercury_conf_02.png)
+ [![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdFUOKADI/AAAAAAAAAL4/1ndhK1WXB64/s320/mercury_conf_02.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdFUOKADI/AAAAAAAAAL4/1ndhK1WXB64/s1600-h/mercury_conf_02.png)
 
   
 
@@ -76,13 +76,13 @@ Luego de desactivar/activar módulos es necesario reiniciar Mercury (salir del a
 
   
 
-[![](http://1.bp.blogspot.com/_K2xwnQ4Llso/S1CdLy5HtzI/AAAAAAAAAMA/IHC1N3Pk5Ro/s320/mercury_conf_04.png)](http://1.bp.blogspot.com/_K2xwnQ4Llso/S1CdLy5HtzI/AAAAAAAAAMA/IHC1N3Pk5Ro/s1600-h/mercury_conf_04.png)
+[![](https://1.bp.blogspot.com/_K2xwnQ4Llso/S1CdLy5HtzI/AAAAAAAAAMA/IHC1N3Pk5Ro/s320/mercury_conf_04.png)](https://1.bp.blogspot.com/_K2xwnQ4Llso/S1CdLy5HtzI/AAAAAAAAAMA/IHC1N3Pk5Ro/s1600-h/mercury_conf_04.png)
 
 El nombre en "Announce..." puede ser cualquiera. El IP es el del localhost (la página dice que usar el IP de la intranet, 192.168.x.x, no le funcionó).
 
   
 
- [![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdavxBiWI/AAAAAAAAAMI/hAScuWTkCiE/s320/mercury_conf_05.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdavxBiWI/AAAAAAAAAMI/hAScuWTkCiE/s1600-h/mercury_conf_05.png)
+ [![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdavxBiWI/AAAAAAAAAMI/hAScuWTkCiE/s320/mercury_conf_05.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1CdavxBiWI/AAAAAAAAAMI/hAScuWTkCiE/s1600-h/mercury_conf_05.png)
 
 Aquí se modifica la restricción para que se permita conexiones en el rango 127.0.0.1-127.0.0.1
 
@@ -94,7 +94,7 @@ Pero el punto más importante es desmarcar la casilla "Do not permit SMTP relayi
 
   
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdgj6VPTI/AAAAAAAAAMQ/KYvseGp8-AY/s400/mercury_conf_06.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdgj6VPTI/AAAAAAAAAMQ/KYvseGp8-AY/s1600-h/mercury_conf_06.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdgj6VPTI/AAAAAAAAAMQ/KYvseGp8-AY/s400/mercury_conf_06.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdgj6VPTI/AAAAAAAAAMQ/KYvseGp8-AY/s1600-h/mercury_conf_06.png)
 
 Aquí indico que se use el SMTP server de gmail, según las recomendaciones de su página y usando el puerto 587 para SSL con STARTTLS. Si es su caso, verifique que el nombre de usuario incluya @gmail.com
 
@@ -104,7 +104,7 @@ Aquí indico que se use el SMTP server de gmail, según las recomendaciones de s
 
   
 
-[![](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdmo1tHfI/AAAAAAAAAMY/ZhLMFfbkZ74/s320/mercury_conf_07.png)](http://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdmo1tHfI/AAAAAAAAAMY/ZhLMFfbkZ74/s1600-h/mercury_conf_07.png)
+[![](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdmo1tHfI/AAAAAAAAAMY/ZhLMFfbkZ74/s320/mercury_conf_07.png)](https://2.bp.blogspot.com/_K2xwnQ4Llso/S1Cdmo1tHfI/AAAAAAAAAMY/ZhLMFfbkZ74/s1600-h/mercury_conf_07.png)
 
 Se agrega el usuario postmaster, con privilegio de administrador.
 

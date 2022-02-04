@@ -18,7 +18,7 @@ Se usa el truco que permite simular un onclick usando CSS:
   
 Y también esta técnica para centrar la caja:  
   
-[http://akcdev.blogspot.com/2010/07/como-centrar-un-bloque-en-una-pagina.html](http://akcdev.blogspot.com/2010/07/como-centrar-un-bloque-en-una-pagina.html)
+[https://akcdev.blogspot.com/2010/07/como-centrar-un-bloque-en-una-pagina.html](https://akcdev.blogspot.com/2010/07/como-centrar-un-bloque-en-una-pagina.html)
 
   
 

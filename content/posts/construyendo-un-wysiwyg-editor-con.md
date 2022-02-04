@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)](http://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)
+[![](https://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)](https://4.bp.blogspot.com/-1HqO8qW939Q/TJPfxG0QArI/AAAAAAAABNM/gcxnjPQOroM/s1600/jquery-logo.png)
 
 En HTML, normalmente un textarea no es wysiwyg, pero existen plugins javascript, como [CKEditor](http://ckeditor.com/), [NicEdit](http://nicedit.com/), entre otros, que ayudan a que lo sea. Se instala el plugin, se configura y listo. ¿Te animarías a hacerlo tú mismo?  
   

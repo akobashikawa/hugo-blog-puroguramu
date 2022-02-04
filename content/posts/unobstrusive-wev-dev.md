@@ -9,7 +9,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-9-J7ZnRLaeQ/Tcq_RK2rWuI/AAAAAAAABVU/2hREkJPgZws/s1600/uphp.png)](http://2.bp.blogspot.com/-9-J7ZnRLaeQ/Tcq_RK2rWuI/AAAAAAAABVU/2hREkJPgZws/s1600/uphp.png)
+[![](https://2.bp.blogspot.com/-9-J7ZnRLaeQ/Tcq_RK2rWuI/AAAAAAAABVU/2hREkJPgZws/s1600/uphp.png)](https://2.bp.blogspot.com/-9-J7ZnRLaeQ/Tcq_RK2rWuI/AAAAAAAABVU/2hREkJPgZws/s1600/uphp.png)
 
 Lea el artículo original en [Unobstrusive web dev](http://akcideas.blogspot.com/2011/05/unobstrusive-web-dev.html).
 

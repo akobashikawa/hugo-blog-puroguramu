@@ -11,7 +11,7 @@ tags:
 
   
 
-[![](http://4.bp.blogspot.com/-VOiPjiViZ4A/SpeOgCTX4MI/AAAAAAAAAE0/3qftQsAxguI/s200/php2sv8.png)](http://4.bp.blogspot.com/-VOiPjiViZ4A/SpeOgCTX4MI/AAAAAAAAAE0/3qftQsAxguI/s1600/php2sv8.png)
+[![](https://4.bp.blogspot.com/-VOiPjiViZ4A/SpeOgCTX4MI/AAAAAAAAAE0/3qftQsAxguI/s200/php2sv8.png)](https://4.bp.blogspot.com/-VOiPjiViZ4A/SpeOgCTX4MI/AAAAAAAAAE0/3qftQsAxguI/s1600/php2sv8.png)
 
 Con **HTML**, el contenido se mezcla con etiquetas que permiten mostrarlo en un navegador.
 

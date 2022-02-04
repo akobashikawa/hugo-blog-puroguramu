@@ -10,7 +10,7 @@ tags:
 - blogger
 ---
 
-[![](http://2.bp.blogspot.com/-xhngyjbBIhU/UtQF0Do7jTI/AAAAAAAACXE/tLy9tcp-aPY/s200/coder-eye.jpg)](http://2.bp.blogspot.com/-xhngyjbBIhU/UtQF0Do7jTI/AAAAAAAACXE/tLy9tcp-aPY/s1600/coder-eye.jpg)
+[![](https://2.bp.blogspot.com/-xhngyjbBIhU/UtQF0Do7jTI/AAAAAAAACXE/tLy9tcp-aPY/s200/coder-eye.jpg)](https://2.bp.blogspot.com/-xhngyjbBIhU/UtQF0Do7jTI/AAAAAAAACXE/tLy9tcp-aPY/s1600/coder-eye.jpg)
 
 Es muy diferente escribir código solo que en equipo.  
   
@@ -19,7 +19,7 @@ Cuando eres solo una persona, tienes más libertad para elegir lo que te gusta o
 Cuando eres solo una persona, escribes código _para solucionar un problema_. Y punto.  
   
 
-[![](http://3.bp.blogspot.com/-1XHjitZXg1o/UtQF_LGmx-I/AAAAAAAACXM/TEPw6V_TNDI/s1600/sinergia-team.jpg)](http://3.bp.blogspot.com/-1XHjitZXg1o/UtQF_LGmx-I/AAAAAAAACXM/TEPw6V_TNDI/s1600/sinergia-team.jpg)
+[![](https://3.bp.blogspot.com/-1XHjitZXg1o/UtQF_LGmx-I/AAAAAAAACXM/TEPw6V_TNDI/s1600/sinergia-team.jpg)](https://3.bp.blogspot.com/-1XHjitZXg1o/UtQF_LGmx-I/AAAAAAAACXM/TEPw6V_TNDI/s1600/sinergia-team.jpg)
 
 Pero cuando estás en un equipo, escribes código _para solucionar el problema de modo que otros puedan entender la solución y mantenerla_.  
   
@@ -31,6 +31,6 @@ Y, sin embargo, del caos surge un orden, y soluciones valiosas, si las sabes ver
   
 Cuando aparece la sinergia, donde uno más uno es más que dos, es como magia que jamás conocerías si no fuera porque trabajas en equipo. Y entonces, lo valoras.  
 
-[![](http://1.bp.blogspot.com/-rhihL6p63Ls/UtQGGOvkF2I/AAAAAAAACXU/UogHrOm2UEg/s320/sinergia.jpg)](http://1.bp.blogspot.com/-rhihL6p63Ls/UtQGGOvkF2I/AAAAAAAACXU/UogHrOm2UEg/s1600/sinergia.jpg)
+[![](https://1.bp.blogspot.com/-rhihL6p63Ls/UtQGGOvkF2I/AAAAAAAACXU/UogHrOm2UEg/s320/sinergia.jpg)](https://1.bp.blogspot.com/-rhihL6p63Ls/UtQGGOvkF2I/AAAAAAAACXU/UogHrOm2UEg/s1600/sinergia.jpg)
 
 _*Url archivado: [En equipo](https://akcdev.blogspot.com/2014/01/en-equipo.html)*_
