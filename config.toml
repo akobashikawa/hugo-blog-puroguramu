@@ -54,6 +54,14 @@ theme = "LoveIt"
     url = "/acerca/"
     title = ""
     weight = 4
+  [[menu.main]]
+    identifier = "antoniokc"
+    pre = ""
+    post = ""
+    name = "AntonioKC"
+    url = "https://antonikc.akcademia.xyz"
+    title = ""
+    weight = 5
 
 # Markup related configuration in Hugo
 [markup]
@@ -164,8 +172,7 @@ theme = "LoveIt"
 
 [params.social]
   GitHub = "akobashikawa"
-  Linkedin = "akobashikawa"
   Twitter = "rulokoba"
-  Instagram = "rulokc"
-  Facebook = "akobashikawa"
+  Instagram = "akc.puroguramu"
+  Facebook = "puroguramu1"
   RSS = true
