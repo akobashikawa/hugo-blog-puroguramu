@@ -9,7 +9,7 @@ draft: false
 date: 2022-03-11T23:08:00-05:00
 ---
 
-¿Tienes alguna aplicación vue2 que ha dejado de funcionar de pronto? Te cuento cómo solucioné la incompatibilidad que se presentó para vue-router y vuex.
+**¿Tienes alguna aplicación vue2 que ha dejado de funcionar de pronto?** Te cuento cómo solucioné la incompatibilidad que se presentó para vue-router y vuex.
 
 <!--more-->
 
