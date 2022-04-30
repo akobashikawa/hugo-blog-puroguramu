@@ -6,7 +6,7 @@ tags: ["html", "whatsapp", "solución"]
 featuredImage: "link-to-whatsapp.jpg"
 images: ["link-to-whatsapp.jpg"]
 draft: false
-date: 2022-03-11T23:56:00-05:00
+date: 2022-04-30T00:51:00-05:00
 ---
 
 **¿Quieres crear un link que abra un chat en Whatsapp?** Te cuento cómo lo solucioné con HTML.
@@ -30,3 +30,12 @@ date: 2022-03-11T23:56:00-05:00
 ![](screenshot-whatsapp-hola.png)
 
 ¿Conoces otro modo de hacer esto, o quizás de manera más sencilla? Puedes compartirlo en los comentarios 🙏
+
+Estos son otros modos de hacerlo:
+
+- [Generador de enlace de WhatsApp
+con mensaje personalizado](https://vilmanunez.com/crear-enlace-whatsapp/)
+  - Presenta un formulario más amigable para obtener el url.
+- [Crea links de WhatsApp](https://crear.wa.link/)
+  - Presenta también un formulario más amigable para obtener el url.
+  - Además, funciona como acortador, entregando un enlace tipo https://wa.link/xxxxxx que luce mejor en las publicaciones.
