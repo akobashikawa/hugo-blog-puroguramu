@@ -129,6 +129,8 @@ theme = "LoveIt"
   
 # Page config
 [params.page]
+  lightgallery = true
+
   [params.page.toc]
     # whether to enable the table of the contents
     enable = true

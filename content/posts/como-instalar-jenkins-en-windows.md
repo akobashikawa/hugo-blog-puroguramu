@@ -57,16 +57,16 @@ Te cuento el procedimiento que seguí y me funcionó tanto en Windows Server 201
 - Iniciar _Local Security Policies_
 	- `secpol.msc`
 	- \
-		![](20220624111228.png)
+		![](20220624111228.png " ")
 - En _Local Policies_, _User Rights Assignment_
 	- _Log on as a service_
 	- \
-		![](20220624111333.png)
+		![](20220624111333.png " ")
 - _Add User or Group_
 	- Agregar el usuario
 		- _Advanced..._, _Find Now_, Seleccionar, _OK_
 			- \
-				![](20220624111623.png)
+				![](20220624111623.png " ")
 		- Puede ser un usuario de cuenta
 		- Puede ser Administrator
 - _Apply_, OK
@@ -74,28 +74,28 @@ Te cuento el procedimiento que seguí y me funcionó tanto en Windows Server 201
 ## Instalar Jenkins
 - Usando `jenkins.msi`
 - \
-	![](20220624104354.png)
+	![](20220624104354.png " ")
 - Indicar **dónde se instalará** \
-	![](20220624104417.png)
+	![](20220624104417.png " ")
 - Indicar **qué usuario iniciará el servicio** (caso fallido) \
-  ![](20220624104533.png)
+  ![](20220624104533.png " ")
 	- Este error aparece cuando el usuario no tiene privilegios para iniciar servicios
 		- [jenkins installation windows 10 "Service Logon Credentials"](https://stackoverflow.com/questions/63410442/jenkins-installation-windows-10-service-logon-credentials)
 		- Ver la sección [Tener un usuario con privilegios para iniciar servicios](#tener-un-usuario-con-privilegios-para-iniciar-servicios)
 - Indicar **qué usuario iniciará el servicio** (caso OK) \
-  ![](20220624111922.png)
+  ![](20220624111922.png " ")
 - Indicar **el puerto** donde correrá el servicio \
-	![](20220624112221.png)
+	![](20220624112221.png " ")
 - \
-	![](20220624112351.png)
+	![](20220624112351.png " ")
 - Indicar la **ubicación del JDK** \
-	![](20220624112437.png)
+	![](20220624112437.png " ")
 - Cambiar la opción _Start Service_ a deshabilitada. Se habilitará luego manualmente. \
-	![](20220624112908.png)
+	![](20220624112908.png " ")
 - \
-	![](20220624113305.png)
+	![](20220624113305.png " ")
 - \
-	![](20220624114832.png)
+	![](20220624114832.png " ")
 
 ## Configuración de inicio
 - Modificar el archivo de configuración `jenkins.xml`, del directorio donde se instaló.
@@ -127,34 +127,34 @@ Te cuento el procedimiento que seguí y me funcionó tanto en Windows Server 201
 		- Es útil para detectar errores de sintaxis en `jenkins.xml`
 	- En cambio, si está ok, windows intentará levantar el servicio, pero, como no es el lugar adecuado para hacerlo, aparecerá un aviso
 		- \
-			![](20220624123021.png)
+			![](20220624123021.png " ")
 
 ## Iniciar el servicio Jenkins
 - Abrir el app **Services**
 - Ubicar a **Jenkins**
 - Click derecho y elegir _Start_
 - \
-	![](20220624123346.png)
+	![](20220624123346.png " ")
 - \
-	![](20220624123449.png)
+	![](20220624123449.png " ")
 - http://localhost:8080/jenkins/
 	- \
-		![](20220624124158.png)
+		![](20220624124158.png " ")
 	- En caso de que no se vea nada, revisar los errores que arroja en `C:\java\jenkins\jenkins.err.log`, corregir y reiniciar el servicio.
 - Ingresar la **clave inicial del administrador** en el archivo indicado
 	- `C:\data\jenkins_home\secrets\initialAdminPassword`, por ejemplo
 	- \
-		![](20220624124419.png)
+		![](20220624124419.png " ")
 - En la pantalla de bienvenida, elegir **Install sugested plugins** \
-	![](20220624124535.png)
+	![](20220624124535.png " ")
 - Ingresar los datos para el usuario administrador \
-	![](20220624141203.png)
+	![](20220624141203.png " ")
 - Indicar el url \
-	![](20220624142158.png)
+	![](20220624142158.png " ")
 - \
-	![](20220624142256.png)
+	![](20220624142256.png " ")
 - \
-	![](20220624142332.png)
+	![](20220624142332.png " ")
 
 Espero te sirva de ayuda. \
 ¿Has encontrado alguna mejor manera de hacerlo? Puedes compartirlo en los comentarios 🙏
