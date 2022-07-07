@@ -24,6 +24,7 @@ Te cuento el procedimiento que seguí en un Windows Server 2019 y que puede ayud
     JDK: JDK 18
 - Aplicación **springboot** que puede correr como servicio en 8081
   - Requiere **JDK 17**
+    - Es para esta aplicación en particular, pero puede ser otra versión
   - Usa **maven**
   - Tiene un repositorio en **GitHub**
   - Se ha probado a mano, en el server, los comandos que permiten corren localmente la aplicación
