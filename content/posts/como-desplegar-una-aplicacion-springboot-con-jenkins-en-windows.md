@@ -1,6 +1,6 @@
 ---
 title: "Cómo desplegar una aplicación spring boot con Jenkins en Windows"
-slug: "como-desplegar-una-aplicacion-springboot-con-jenkins-en-windows.md"
+slug: "como-desplegar-una-aplicacion-springboot-con-jenkins-en-windows"
 categories: ["Jenkins"]
 tags: ["jenkins", "windows", "springboot", "devops", "problema", "solución"]
 featuredImage: "jenkins-on-windows.png"
