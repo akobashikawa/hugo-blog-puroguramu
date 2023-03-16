@@ -90,7 +90,7 @@ Te cuento el procedimiento que seguí en un Windows Server 2019 y que puede ayud
     - Pruebo iniciar el servicio
     - Si hubiera algún error, se puede revisar en `SpringbootRestHello\SpringbootRestHello.err.log`
       - Reviso que el logon lo haga mi usuario
-        - Debe estar habilitado para iniciar servicios, según se explica en [Cómo instalar Jenkins en Windows](https://puroguramu.akcademia.xyz/posts/como-instalar-jenkins-en-windows/)
+        - Debe estar habilitado para iniciar servicios, según se explica en [Cómo instalar Jenkins en Windows](https://puroguramu.akcstudio.online/posts/como-instalar-jenkins-en-windows/)
 
 ## Prueba manual
 - En jenkins, _Dashboard_, seleccionar el proyecto

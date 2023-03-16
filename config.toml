@@ -1,4 +1,4 @@
-baseURL = "https://puroguramu.akcademia.xyz/"
+baseURL = "https://puroguramu.akcstudio.online/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
@@ -59,7 +59,7 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "AntonioKC"
-    url = "https://antoniokc.akcademia.xyz"
+    url = "https://antoniokc.netlify.app"
     title = ""
     weight = 5
 
