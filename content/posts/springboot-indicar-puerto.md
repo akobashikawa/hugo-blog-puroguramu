@@ -9,7 +9,7 @@ draft: false
 date: 2024-05-17T12:53:00-05:00
 ---
 
-**¿Quieres el puerto por default de Spring Boot?**
+**¿Quieres cambiar el puerto en que corre Spring Boot?**
 Te cuento el procedimiento que seguí y que puede ayudarte.
 
 <!--more-->
