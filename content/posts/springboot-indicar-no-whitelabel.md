@@ -20,13 +20,15 @@ Te cuento el procedimiento que seguí y que puede ayudarte.
 flowchart LR;
 
 Properties --o SpringBootProyect --> Build --> Run
+Params --o Build
 
 {{< /mermaid >}}
 
 - Por default, cuando ocurre algún error para abrir una página, se muestra la página Whitelabel.
 
 ![](SpringBoot-NoWhitelabel.png)
-- Es posible indicar que no se use:
+
+- Al correr el proyecto, se puede indicar que no se use:
 
 ```sh
 mvn clean install
@@ -35,6 +37,7 @@ java -Dserver.error.whitelabel.enabled=false -jar target/hello-0.0.1.war
 ```
 
 ![](SpringBoot-NoWhitelabel-1.png)
+
 - Alternativamente, se puede agregar la siguiente opción en `application.properties`:
 
 ```properties
