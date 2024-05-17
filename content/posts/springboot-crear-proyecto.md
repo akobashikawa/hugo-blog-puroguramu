@@ -16,6 +16,13 @@ Te cuento el procedimiento que seguí y que puede ayudarte.
 
 # Cómo crear un proyecto Spring Boot
 
+{{< mermaid >}}
+flowchart LR;
+
+SpringInitializr --> SpringBootProyect --> Build --> Run
+
+{{< /mermaid >}}
+
 - Se puede usar el formulario Spring Initializr:
 	- [Spring Initializr](https://start.spring.io/) Spring Boot
 	- [Spring Initializr](https://start200.spring.io/) Spring Boot 2
