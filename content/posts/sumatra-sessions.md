@@ -42,7 +42,7 @@ Aunque Sumatra PDF no maneja múltiples sesiones, hay una característica no doc
 	- Target: `C:\Users\KobashikawaA\AppData\Local\SumatraPDF\SumatraPDF.exe -appdata ".\sumatra"`
 - De ese modo, al hacer click sobre el acceso directo se hará uso de una sesión diferente guardada en una subcarpeta local.
 
-![[sumatra-sessions.png]]
+![](sumatra-sessions.png)
 
 ## Limitaciones
 
