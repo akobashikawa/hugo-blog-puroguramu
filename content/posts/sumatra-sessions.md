@@ -1,6 +1,6 @@
 ---
 title: "Sesiones con Sumatra PDF"
-slug: "como-usar-un-public-externo-en-spring-boot"
+slug: "sesiones-con-sumatra-pdf"
 categories: ["pdf", "windows"]
 tags: ["sumatra", "pdf", "howto"]
 featuredImage: "sumatra-pdf.png"
@@ -8,6 +8,11 @@ images: ["sumatra-pdf.png"]
 draft: false
 date: 2024-07-01T14:28:00-05:00
 ---
+**¿Quisieras agrupar tus lecturas de ebooks en sesiones independientes?**
+Aunque Sumatra PDF no maneja múltiples sesiones, hay una característica no documentada que se puede usar para tener algo parecido. Te cuento el procedimiento que seguí y que puede ayudarte.
+
+<!--more-->
+
 # Sesiones con Sumatra PDF
 
 ## Qué es SumatraPDF
