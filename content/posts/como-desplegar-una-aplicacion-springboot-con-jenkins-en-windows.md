@@ -36,7 +36,7 @@ Te cuento el procedimiento que seguí en un Windows Server 2019 y que puede ayud
     - Si todo va bien, se puede comprobar en `http://localhost:8081/hello?name=Antonio`
 
 ## Referencias
-- [Cómo instalar Jenkins en Windows](https://puroguramu.akcstudio.online/posts/como-instalar-jenkins-en-windows/)
+- [Cómo instalar Jenkins en Windows](https://puroguramu.akcstudio.com/posts/como-instalar-jenkins-en-windows/)
 
 ## Crear job maven
 - En **jenkins**, _New Item_
