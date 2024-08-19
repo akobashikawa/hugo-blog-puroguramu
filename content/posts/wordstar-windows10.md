@@ -9,7 +9,7 @@ draft: false
 date: 2024-08-18T18:47:00-05:00
 ---
 
-Robert J. Sawyer (scifi, premios Hugo y Nebula), Anne Rice ("Entrevista con el Vampiro") y George R. R. Martin ("Juego de Tronos") echan elogios al antiguo procesador de texto de la era DOS, WordStar, que usan para desarrollar sus obras. ¿Cómo correr WordStar en Windows?. El mismo Sawyer nos da una mano.
+Robert J. Sawyer (scifi, premios Hugo y Nebula), Anne Rice ("Entrevista con el Vampiro") y George R. R. Martin ("Juego de Tronos") echan elogios al antiguo procesador de texto de la era DOS, WordStar, que usan para desarrollar sus obras. ¿Cómo correr WordStar en Windows?. Sawyer nos da una mano.
 
 <!--more-->
 
