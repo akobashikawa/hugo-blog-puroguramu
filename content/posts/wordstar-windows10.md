@@ -9,11 +9,11 @@ draft: false
 date: 2024-08-18T18:47:00-05:00
 ---
 
-![](20240818-wordstar-windows10.png)
+Robert J. Sawyer (scifi, premios Hugo y Nebula), Anne Rice ("Entrevista con el Vampiro") y George R. R. Martin ("Juego de Tronos") con famosos escritores que escriben sus obras usando el antiguo procesador de texto de la era DOS, WordStar, al que echan elogios. Ya que WordStar es _abandonware_, ¿Cómo correrlo en Windows?. El mismo Sawyer nos da una mano.
+
+<!--more-->
 
 # WordStar en Windows 10
-
-<TagsLinks />
 
 Recientemente, Robert J. Sawyer, el reconocido escritor de ciencia ficción, publicó que escribía sus novelas usando WordStar, el mejor procesador de textos que haya conocido.
 
