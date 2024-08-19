@@ -1,7 +1,7 @@
 ---
 title: "WordStar en Windows 10"
 slug: "word-star-en-windows-10"
-categories: ["pdf", "windows"]
+categories: ["howto", "windows"]
 tags: ["wordstar", "windows", "howto"]
 featuredImage: "20240818-wordstar-windows10.png"
 images: ["20240818-wordstar-windows10.png"]
@@ -63,3 +63,7 @@ ws
 ```sh
 mount C: C:\dos-c
 ```
+
+## Más al respecto
+
+- [Retrosoftware: WordStar, el procesador de texto que dominó los años ’80 – NeoTeo](https://www.neoteo.com/retrosoftware-wordstar-el-procesador-de-texto-que-domino-los-anos-80/)
