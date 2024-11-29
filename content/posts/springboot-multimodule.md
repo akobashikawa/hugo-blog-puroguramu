@@ -9,7 +9,7 @@ draft: false
 date: 2024-11-29T02:57:00-05:00
 ---
 
-**¿Quieres tener varios módulos, cada uno con su propio pom y properties?**
+**¿Quieres tener varios módulos, cada uno con su propio pom, properties y swagger?**
 Te cuento el procedimiento que seguí y que puede ayudarte.
 
 <!--more-->
